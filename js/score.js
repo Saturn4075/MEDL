@@ -6,6 +6,17 @@ import tierData from './tierConfig.json' assert { type: 'json' };
  */
 const scale = 2;
 
+const positionCache = {};
+
+export async function preloadTierPositions() {
+  for (const tierKey of Object.keys(tierData)) {
+    const { upperLimitName, lowerLimitName } = tierData[tierKey];
+    const upperLimit = await getPositionByName(upperLimitName);
+    const lowerLimit = await getPositionByName(lowerLimitName);
+    positionCache[tierKey] = { upperLimit, lowerLimit };
+  }
+    
+}
 export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit) {
   let allLevels = lowerLimit - upperLimit + 1;
   let newPosition = position - upperLimit + 1;
@@ -15,25 +26,26 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
   return round(finalPoint);
 }
 
-async function score(levelName, tierKey) {
-  const tier = tierData[tierKey];
-  if (!tier) {
-    console.error("Tier not found:", tierKey);
-    return;
+export async function score(levelName, tier) {
+  if (!tierData[tier]) {
+    console.warn(`Tier ${tier} not found`);
+    return 0;
   }
+  if (!positionCache[tier]) {
+    console.warn(`Positions for tier ${tier} not loaded`);
+    return 0;
+  }
+
+  const { maxPoints, minPoints } = tierData[tier];
+  const { upperLimit, lowerLimit } = positionCache[tier];
 
   const position = await getPositionByName(levelName);
-  const upperLimit = await getPositionByName(tier.upperLimitName);
-  const lowerLimit = await getPositionByName(tier.lowerLimitName);
-
-  if (position === null || upperLimit === null || lowerLimit === null) {
-    console.error("Failed to find one or more positions.");
-    return;
+  if (position === null) {
+    console.warn(`Level position for ${levelName} not found`);
+    return 0;
   }
 
-  const { maxPoints, minPoints } = tier;
-  const finalPoint = pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit);
-  console.log(`Final Points for ${levelName} (Tier ${tierKey}):`, finalPoint);
+  return pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit);
 }
 
 export function round(num) {
