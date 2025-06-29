@@ -1,4 +1,4 @@
-import { getPositionByName } from './aredlAPI.js';
+import { getPositionByName } from './aredl.js';
 let tierData = null;
 
 export async function loadTierData() {
