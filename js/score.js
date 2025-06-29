@@ -1,5 +1,6 @@
 import { getPositionByName } from './aredlAPI.js';
 import { pointsLevel } from './pointsCalculator.js';
+import tierData from './tierConfig.json' assert { type: 'json' };
 /**
  * Numbers of decimal digits to round to
  */
@@ -14,18 +15,25 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
   return round(finalPoint);
 }
 
-async function calculateLevelPoints(targetLevelName, upperLimitName, lowerLimitName, maxPoints, minPoints) {
-  const position = await getPositionByName(targetLevelName);
-  const upperLimit = await getPositionByName(upperLimitName);
-  const lowerLimit = await getPositionByName(lowerLimitName);
-
-  if (position === null || upperLimit === null || lowerLimit === null) {
-    console.error("Failed to find one or more level positions.");
+async function calculateTierLevelPoints(levelName, tierKey) {
+  const tier = tierData[tierKey];
+  if (!tier) {
+    console.error("Tier not found:", tierKey);
     return;
   }
 
+  const position = await getPositionByName(levelName);
+  const upperLimit = await getPositionByName(tier.upperLimitName);
+  const lowerLimit = await getPositionByName(tier.lowerLimitName);
+
+  if (position === null || upperLimit === null || lowerLimit === null) {
+    console.error("Failed to find one or more positions.");
+    return;
+  }
+
+  const { maxPoints, minPoints } = tier;
   const finalPoint = pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit);
-  console.log(`Final Points for ${targetLevelName}:`, finalPoint);
+  console.log(`Final Points for ${levelName} (Tier ${tierKey}):`, finalPoint);
 }
 
 export function round(num) {
