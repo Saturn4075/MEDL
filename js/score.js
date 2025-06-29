@@ -1,5 +1,4 @@
 import { getPositionByName } from './aredlAPI.js';
-import { pointsLevel } from './pointsCalculator.js';
 let tierData = null;
 
 export async function loadTierData() {
