@@ -1,18 +1,14 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "tier": 56,
+    "id": 84960998,
+    "name": "ConFusion",
+    "author": "DreamZoneGD",
+    "creators": ["DreamZoneGD"],
+    "verifier": "First Victor",
+    "verification": "https://www.youtube.com/watch?v=E-YG8PaUmKs",
+    "tier": "remorseless",
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
