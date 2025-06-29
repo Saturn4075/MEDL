@@ -15,7 +15,7 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
   return round(finalPoint);
 }
 
-async function calculateTierLevelPoints(levelName, tierKey) {
+async function score(levelName, tierKey) {
   const tier = tierData[tierKey];
   if (!tier) {
     console.error("Tier not found:", tierKey);
