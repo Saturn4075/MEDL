@@ -1,4 +1,4 @@
-export async function getPositionByName(targetName) {
+export async function getPosition(targetName) {
   const request = "https://api.aredl.net/api/aredl/levels";
   try {
     const response = await fetch(request);
