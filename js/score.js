@@ -1,8 +1,11 @@
 import { getPositionByName } from './aredlAPI.js';
 import { pointsLevel } from './pointsCalculator.js';
-const tierData = await import('./tierConfig.json', {
-  assert: { type: 'json' }
-});
+let tierData = null;
+
+export async function loadTierData() {
+  const res = await fetch('./tierConfig.json');
+  tierData = await res.json();
+}
 /**
  * Numbers of decimal digits to round to
  */
