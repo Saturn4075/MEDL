@@ -78,7 +78,7 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
  * @param {string} levelName - name of the level
  * @returns {number} calculated score
  */
-export async function scoreCached(levelName) {
+export async function score(levelName) {
   const level = levelCache[levelName];
   if (!level) {
     console.warn(`Level data for ${levelName} not found in cache.`);
