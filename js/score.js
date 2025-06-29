@@ -12,6 +12,12 @@ export async function loadTierData() {
   tierData = await res.json();
 }
 
+const list = await fetchList();
+const levelPaths = list
+  .filter(([level, err]) => level) // only successful loads
+  .map(([level, err]) => level.path); // extract the path field
+
+await preloadLevels(levelPaths);
 /**
  * Preload upper and lower limit positions for each tier
  */
