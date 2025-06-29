@@ -1,58 +1,18 @@
 import { getPositionByName } from './aredl.js';
 
-let tierData = null;
-const positionCache = {};
-const levelCache = {};
+const scale = 2;
 
 /**
  * Load tier configuration JSON
  */
-export async function loadTierData() {
+async function loadTierData() {
   const res = await fetch('./tierConfig.json');
-  tierData = await res.json();
-}
-
-const list = await fetchList();
-const levelPaths = list
-  .filter(([level, err]) => level) // only successful loads
-  .map(([level, err]) => level.path); // extract the path field
-
-await preloadLevels(levelPaths);
-/**
- * Preload upper and lower limit positions for each tier
- */
-export async function preloadTierPositions() {
-  for (const tierKey of Object.keys(tierData)) {
-    const { upperLimitName, lowerLimitName } = tierData[tierKey];
-    const upperLimit = await getPositionByName(upperLimitName);
-    const lowerLimit = await getPositionByName(lowerLimitName);
-    positionCache[tierKey] = { upperLimit, lowerLimit };
-  }
-}
-
-/**
- * Preload all levels' JSON data into cache
- * @param {string[]} list - array of level file names (without .json)
- */
-export async function preloadLevels(list) {
-  await Promise.all(
-    list.map(async (path) => {
-      try {
-        const res = await fetch(`MEDL/data/${path}.json`);
-        if (!res.ok) throw new Error(`Failed to fetch ${path}.json`);
-        const level = await res.json();
-        levelCache[level.name] = level;
-      } catch (e) {
-        console.warn(e);
-      }
-    }),
-  );
+  return await res.json();
 }
 
 /**
  * Rounds a number to fixed decimal places
  */
-const scale = 2;
 export function round(num) {
   if (!('' + num).includes('e')) {
     return +(
@@ -80,34 +40,46 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
 }
 
 /**
- * Score calculation using cached level data and tier info
- * @param {string} levelName - name of the level
- * @returns {number} calculated score
+ * Score calculation by fetching everything on-demand
+ * @param {string} levelName
+ * @returns {number}
  */
 export async function score(levelName) {
-  const level = levelCache[levelName];
-  if (!level) {
-    console.warn(`Level data for ${levelName} not found in cache.`);
+  // Fetch level JSON directly
+  const res = await fetch(`MEDL/data/${levelName}.json`);
+  if (!res.ok) {
+    console.warn(`Failed to fetch ${levelName}.json`);
     return 0;
   }
+  const level = await res.json();
+
+  // Load tier config
+  const tierData = await loadTierData();
+
   const tier = level.tier;
-  if (!tierData || !tierData[tier]) {
+  if (!tierData[tier]) {
     console.warn(`Tier "${tier}" not found in tier data.`);
     return 0;
   }
-  if (!positionCache[tier]) {
-    console.warn(`Positions for tier "${tier}" not loaded.`);
+
+  const { maxPoints, minPoints, upperLimitName, lowerLimitName } = tierData[tier];
+
+  // Fetch upper and lower limit positions
+  const upperLimit = await getPositionByName(upperLimitName);
+  const lowerLimit = await getPositionByName(lowerLimitName);
+
+  if (upperLimit == null || lowerLimit == null) {
+    console.warn(`Missing limit positions for tier "${tier}".`);
     return 0;
   }
 
-  const { maxPoints, minPoints } = tierData[tier];
-  const { upperLimit, lowerLimit } = positionCache[tier];
+  // Fetch position of the level itself
   const position = await getPositionByName(levelName);
-
-  if (position === null || position === undefined) {
+  if (position == null) {
     console.warn(`Position for level "${levelName}" not found.`);
     return 0;
   }
 
+  // Calculate and return points
   return pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit);
 }
