@@ -1,5 +1,14 @@
- {
-        "tier": "beginner",
-        "minPoints": "5",
-        "maxPoints": "15"
-},
+{
+  "beginner": {
+    "maxPoints": 5,
+    "minPoints": 15,
+    "upperLimitName": "Red World",
+    "lowerLimitName": "Vanish"
+  },
+  "easy": {
+    "maxPoints": 200,
+    "minPoints": 80,
+    "upperLimitName": "Apprentice",
+    "lowerLimitName": "Master"
+  }
+}
