@@ -1,39 +1,31 @@
+import { getPositionByName } from './aredlAPI.js';
+import { pointsLevel } from './pointsCalculator.js';
 /**
  * Numbers of decimal digits to round to
  */
-const scale = 3;
+const scale = 2;
 
-/**
- * Calculate the score awarded when having a certain percentage on a list level
- * @param {Number} rank Position on the list
- * @param {Number} percent Percentage of completion
- * @param {Number} minPercent Minimum percentage required
- * @returns {Number}
- */
-export function score(rank, percent, minPercent) {
-    if (rank > 150) {
-        return 0;
-    }
-    if (rank > 75 && percent < 100) {
-        return 0;
-    }
+export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit) {
+  let allLevels = lowerLimit - upperLimit + 1;
+  let newPosition = position - upperLimit + 1;
+  let b = (allLevels - 1) / 50 * 1 / (Math.pow((100 + maxPoints) / (101 + minPoints), 2) - 1);
+  let a = (100 + maxPoints) * Math.sqrt(b);
+  let finalPoint = a / Math.sqrt((newPosition - 1) / 50 + b) - 100;
+  return round(finalPoint);
+}
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+async function calculateLevelPoints(targetLevelName, upperLimitName, lowerLimitName, maxPoints, minPoints) {
+  const position = await getPositionByName(targetLevelName);
+  const upperLimit = await getPositionByName(upperLimitName);
+  const lowerLimit = await getPositionByName(lowerLimitName);
 
-    score = Math.max(0, score);
+  if (position === null || upperLimit === null || lowerLimit === null) {
+    console.error("Failed to find one or more level positions.");
+    return;
+  }
 
-    if (percent != 100) {
-        return round(score - score / 3);
-    }
-
-    return Math.max(round(score), 0);
+  const finalPoint = pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLimit);
+  console.log(`Final Points for ${targetLevelName}:`, finalPoint);
 }
 
 export function round(num) {
