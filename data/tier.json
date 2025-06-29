@@ -1,14 +1,122 @@
 {
-  "beginner": {
-    "maxPoints": 5,
-    "minPoints": 15,
-    "upperLimitName": "Red World",
-    "lowerLimitName": "Vanish"
+"beginner": {
+    "maxPoints": 15,
+    "minPoints": 5,
+    "upperLimitName": "vanish",
+    "lowerLimitName": "red world"
   },
-  "easy": {
-    "maxPoints": 200,
-    "minPoints": 80,
-    "upperLimitName": "Apprentice",
-    "lowerLimitName": "Master"
+"easy": {
+    "maxPoints": 25,
+    "minPoints": 15,
+    "upperLimitName": "nowdead",
+    "lowerLimitName": "inmind"
+  },
+"medium": {
+    "maxPoints": 45,
+    "minPoints": 25,
+    "upperLimitName": "eternal",
+    "lowerLimitName": "sky conflux"
+  },
+"hard": {
+    "maxPoints": 75,
+    "minPoints": 45,
+    "upperLimitName": "infinite inversion",
+    "lowerLimitName": "emptiness"
+  },
+"very hard": {
+    "maxPoints": 120,
+    "minPoints": 75,
+    "upperLimitName": "removed submission",
+    "lowerLimitName": "super kontik"
+  },
+"insane": {
+    "maxPoints": 180,
+    "minPoints": 120,
+    "upperLimitName": "faded dream",
+    "lowerLimitName": "the old trail"
+  },    
+"extreme": {
+    "maxPoints": 240,
+    "minPoints": 180,
+    "upperLimitName": "edelweiss",
+    "lowerLimitName": "the hell inferno"
+  },
+"remorseless": {
+    "maxPoints": 300,
+    "minPoints": 240,
+    "upperLimitName": "quantum dynamix",
+    "lowerLimitName": "dualies"
+  },
+"relentless": {
+    "maxPoints": 360,
+    "minPoints": 300,
+    "upperLimitName": "of ambrosia",
+    "lowerLimitName": "xronier"
+  },  
+"terrifying": {
+    "maxPoints": 420,
+    "minPoints": 360,
+    "upperLimitName": "worstbrainmap",
+    "lowerLimitName": "bete noire"
+  },
+"catastrophic": {
+    "maxPoints": 480,
+    "minPoints": 420,
+    "upperLimitName": "terminux",
+    "lowerLimitName": "ram"
+  },
+"inexorable": {
+    "maxPoints": 540,
+    "minPoints": 480,
+    "upperLimitName": "rust",
+    "lowerLimitName": "jesse pinkman"
+  },
+"excruciating": {
+    "maxPoints": 600,
+    "minPoints": 540,
+    "upperLimitName": "hard machine",
+    "lowerLimitName": "akashic records"
+  },
+"merciless": {
+    "maxPoints": 660,
+    "minPoints": 600,
+    "upperLimitName": "delta",
+    "lowerLimitName": "fragile"
+  },
+"monstrous": {
+    "maxPoints": 720,
+    "minPoints": 660,
+    "upperLimitName": "arcturus",
+    "lowerLimitName": "atomic cannon mk iii"
+  },
+"apocalyptic": {
+    "maxPoints": 780,
+    "minPoints": 720,
+    "upperLimitName": "solar flare",
+    "lowerLimitName": "sinister silence"
+  },
+"demonic": {
+    "maxPoints": 840,
+    "minPoints": 780,
+    "upperLimitName": "deimos (itshybrid)",
+    "lowerLimitName": "combustion"
+  },
+"menacing": {
+    "maxPoints": 900,
+    "minPoints": 840,
+    "upperLimitName": "spectre",
+    "lowerLimitName": "sakupen circles"
+  },
+"unreal": {
+    "maxPoints": 960,
+    "minPoints": 900,
+    "upperLimitName": "boobawamba",
+    "lowerLimitName": "silent clubstep"
+  },
+"nightmare": {
+    "maxPoints": 1000,
+    "minPoints": 960,
+    "upperLimitName": "amethyst",
+    "lowerLimitName": "nullscapes"
   }
 }
