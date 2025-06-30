@@ -6,7 +6,7 @@ const scale = 2;
  * Load tier configuration JSON
  */
 async function loadTierData() {
-  const res = await fetch('./tierConfig.json');
+  const res = await fetch('./tier.json');
   return await res.json();
 }
 
@@ -46,7 +46,7 @@ export function pointsLevel(maxPoints, minPoints, position, upperLimit, lowerLim
  */
 export async function score(levelName) {
   // Fetch level JSON directly
-  const res = await fetch(`MEDL/data/${levelName}.json`);
+  const res = await fetch(`/MEDL/data/${levelName}.json`);
   if (!res.ok) {
     console.warn(`Failed to fetch ${levelName}.json`);
     return 0;
