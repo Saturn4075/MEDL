@@ -1,0 +1,21 @@
+{
+  "id": "Sweater Weather",
+  "name": "Sweater Weather",
+  "author": "VelYT",
+  "creators": [
+    "VelYT"
+  ],
+  "verifier": "Meeren",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 5.23,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/JfxcXNZ1sPw",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
