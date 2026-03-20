@@ -1,0 +1,33 @@
+{
+  "id": "Infernal Abyss",
+  "name": "Infernal Abyss",
+  "author": "Ggb0y, Manix648 & Bianox",
+  "creators": [
+    "Ggb0y, Manix648 & Bianox"
+  ],
+  "verifier": "M3nda",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 140.32,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=EXI7ks9CwMo",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/6pa4-kdAmZc?si=wrN-jG7yyMDLjjO3",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://www.youtube.com/watch?v=aKrcqsAxS7k&list=PLVLyh6l0ayHzBV3aUgc9q1M9wXWRJJ4qT&index=3&t=1s&pp=iAQB",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
