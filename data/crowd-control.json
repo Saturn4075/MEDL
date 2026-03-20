@@ -1,0 +1,21 @@
+{
+  "id": "Crowd Control",
+  "name": "Crowd Control",
+  "author": "Endlevel & More",
+  "creators": [
+    "Endlevel & More"
+  ],
+  "verifier": "Tink",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 15.05,
+  "records": [
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
