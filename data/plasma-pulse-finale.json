@@ -1,0 +1,21 @@
+{
+  "id": "Plasma Pulse Finale",
+  "name": "Plasma Pulse Finale",
+  "author": "xSmokes & Giron",
+  "creators": [
+    "xSmokes & Giron"
+  ],
+  "verifier": "Meeren",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 433.36,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://www.youtube.com/watch?v=apY5cCg8jsg",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
