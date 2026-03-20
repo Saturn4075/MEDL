@@ -1,0 +1,63 @@
+{
+  "id": "Cataclysm",
+  "name": "Cataclysm",
+  "author": "Ggb0y",
+  "creators": [
+    "Ggb0y"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 8.3,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=lkxqUyTu2Ws",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "YuNotYou",
+      "link": "https://www.twitch.tv/videos/2700288407",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/bmw2HO1ah-I?si=Sjf_iwu7V8J0ohpc&t=629",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/g1PR5Qq_L7c?si=wLQOMRDSSGMspy4k",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=JfxcXNZ1sPw",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "SpringWater",
+      "link": "https://www.facebook.com/share/v/17NuSxKGdV/",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "SkinnyPotato",
+      "link": "https://www.youtube.com/watch?v=H-yfAB1z83o",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Nano",
+      "link": "https://youtu.be/u1uC60YTV5U",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
