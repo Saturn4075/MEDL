@@ -1,0 +1,21 @@
+{
+  "id": "Black Blizzard",
+  "name": "Black Blizzard",
+  "author": "KrmaL",
+  "creators": [
+    "KrmaL"
+  ],
+  "verifier": "Gumballer",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 239,
+  "records": [
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=4eNgfG8gRVo",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
