@@ -1,0 +1,21 @@
+{
+  "id": "Shimmer",
+  "name": "Shimmer",
+  "author": "Amplitron",
+  "creators": [
+    "Amplitron"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 564.31,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=Hl1uAy1ZxKs",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
