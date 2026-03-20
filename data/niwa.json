@@ -1,0 +1,45 @@
+{
+  "id": "Niwa",
+  "name": "Niwa",
+  "author": "Teno & More",
+  "creators": [
+    "Teno & More"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 6.6,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=QLL7g8_Ezbw",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/ef9sGmiAz1g",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/otFvxsK4Jf4",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "trulysoul",
+      "link": "https://youtu.be/wi0G-GG1X-I?si=og2PcbYG79rWttL6",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "ArielFr11",
+      "link": "https://youtu.be/Nxuc0dK2_cQ?si=f2Pyv663HJ1oQVkP",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
