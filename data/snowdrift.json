@@ -1,0 +1,21 @@
+{
+  "id": "Snowdrift",
+  "name": "Snowdrift",
+  "author": "Bratki",
+  "creators": [
+    "Bratki"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 8.77,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/YPUuSmcHxaE",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
