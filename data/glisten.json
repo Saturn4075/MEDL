@@ -1,0 +1,21 @@
+{
+  "id": "GLISTEN",
+  "name": "GLISTEN",
+  "author": "Squizaaard & More",
+  "creators": [
+    "Squizaaard & More"
+  ],
+  "verifier": "Tink",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 7.81,
+  "records": [
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/SFNgNRUEG-E?si=q6TdfSHlZ846def2",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
