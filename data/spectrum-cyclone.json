@@ -1,0 +1,21 @@
+{
+  "id": "Spectrum Cyclone",
+  "name": "Spectrum Cyclone",
+  "author": "Temp",
+  "creators": [
+    "Temp"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 431.65,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "http://www.youtube.com/watch?v=Q39Fg8FyHj8",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
