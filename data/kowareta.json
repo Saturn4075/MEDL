@@ -1,0 +1,21 @@
+{
+  "id": "Kowareta",
+  "name": "Kowareta",
+  "author": "Gablor",
+  "creators": [
+    "Gablor"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 443.96,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=dDlYTQllCuY",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
