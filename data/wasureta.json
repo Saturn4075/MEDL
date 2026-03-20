@@ -1,0 +1,27 @@
+{
+  "id": "Wasureta",
+  "name": "Wasureta",
+  "author": "Helpegasus & More",
+  "creators": [
+    "Helpegasus & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 375.4,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/bfi31LJu11Y",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/I9rECfwIge8?si=h0eyn0SbD0OD7zfC",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
