@@ -1,0 +1,33 @@
+{
+  "id": "Artificial Ascent",
+  "name": "Artificial Ascent",
+  "author": "Viprin & More",
+  "creators": [
+    "Viprin & More"
+  ],
+  "verifier": "M3nda",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 257.43,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/eUQbKiMZUcs",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://youtu.be/7dyerd8w4hM?si=ftLAQr45UzRB1FHe",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "ErrorDudeHello",
+      "link": "https://www.youtube.com/watch?v=DgBm6jywJtc",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
