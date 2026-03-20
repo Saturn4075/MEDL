@@ -1,0 +1,21 @@
+{
+  "id": "Golden Club",
+  "name": "Golden Club",
+  "author": "Zenmuron",
+  "creators": [
+    "Zenmuron"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 387.41,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/uCvYRnsFsoo",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
