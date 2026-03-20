@@ -1,0 +1,21 @@
+{
+  "id": "A Bizarre Phantasm",
+  "name": "A Bizarre Phantasm",
+  "author": "TeamN2",
+  "creators": [
+    "TeamN2"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 63.51,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/xRGStFhRZcw",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
