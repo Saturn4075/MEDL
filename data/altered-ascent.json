@@ -1,0 +1,21 @@
+{
+  "id": "Altered Ascent",
+  "name": "Altered Ascent",
+  "author": "Prism & More",
+  "creators": [
+    "Prism & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 334.75,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/uD9oLa-112I",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
