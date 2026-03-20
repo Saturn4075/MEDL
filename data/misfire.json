@@ -1,0 +1,21 @@
+{
+  "id": "MISFIRE",
+  "name": "MISFIRE",
+  "author": "Galaxxyss & More",
+  "creators": [
+    "Galaxxyss & More"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 219.02,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/5lBiMZx9MuY?si=kF8WWQCACjOQcXYz",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
