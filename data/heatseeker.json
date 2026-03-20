@@ -1,0 +1,21 @@
+{
+  "id": "Heatseeker",
+  "name": "Heatseeker",
+  "author": "Zeniux",
+  "creators": [
+    "Zeniux"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 7.77,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=YjiI3NXWhWA",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
