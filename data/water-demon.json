@@ -1,0 +1,21 @@
+{
+  "id": "Water Demon",
+  "name": "Water Demon",
+  "author": "Hexitine",
+  "creators": [
+    "Hexitine"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 80.75,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
