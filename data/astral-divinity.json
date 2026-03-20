@@ -1,0 +1,21 @@
+{
+  "id": "Astral Divinity",
+  "name": "Astral Divinity",
+  "author": "Knobbelboy",
+  "creators": [
+    "Knobbelboy"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 222.39,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=23U7e6oI5-M",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
