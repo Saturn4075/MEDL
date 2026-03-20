@@ -1,0 +1,27 @@
+{
+  "id": "Shardscapes",
+  "name": "Shardscapes",
+  "author": "ItzKiba",
+  "creators": [
+    "ItzKiba"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 520.85,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.facebook.com/share/v/1DiwnMSRKX/",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=fy2EdRrRrkM",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
