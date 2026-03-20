@@ -1,0 +1,21 @@
+{
+  "id": "Manic Machine",
+  "name": "Manic Machine",
+  "author": "TwisterDude161",
+  "creators": [
+    "TwisterDude161"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 32.75,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/0RsvizB7pLM",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
