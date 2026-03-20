@@ -1,0 +1,33 @@
+{
+  "id": "Retention",
+  "name": "Retention",
+  "author": "Woogi1411",
+  "creators": [
+    "Woogi1411"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 17.19,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=yFA6jJosqEY",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/DIZDYDRNdy4?si=R7Q0P5ZW-eStwros&t=51",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/-sjvuZGuh-4?si=PEpjisrFkIe2KqnY",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
