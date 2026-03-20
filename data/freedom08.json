@@ -1,0 +1,21 @@
+{
+  "id": "Freedom08",
+  "name": "Freedom08",
+  "author": "Pennutoh & More",
+  "creators": [
+    "Pennutoh & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 320.29,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/2kshTDw6IIU",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
