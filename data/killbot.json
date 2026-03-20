@@ -1,0 +1,27 @@
+{
+  "id": "Killbot",
+  "name": "Killbot",
+  "author": "Boldstep & Lithifusion",
+  "creators": [
+    "Boldstep & Lithifusion"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 261.86,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/0VzjRR05FFI",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=kmS0TkRDSI8",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
