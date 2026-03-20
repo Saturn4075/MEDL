@@ -1,0 +1,33 @@
+{
+  "id": "Sakupen Hell",
+  "name": "Sakupen Hell",
+  "author": "Trusta & Noobas",
+  "creators": [
+    "Trusta & Noobas"
+  ],
+  "verifier": "M3nda",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 105.65,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/1q5vWCtPK_E",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/L9HjANqv-Ro?si=tI9HGJfb6CaCqVSa",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://www.youtube.com/watch?v=eEVCrgq5fR0",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
