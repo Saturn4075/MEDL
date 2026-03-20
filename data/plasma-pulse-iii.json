@@ -1,0 +1,21 @@
+{
+  "id": "Plasma Pulse III",
+  "name": "Plasma Pulse III",
+  "author": "xSmokes & Giron",
+  "creators": [
+    "xSmokes & Giron"
+  ],
+  "verifier": "Meeren",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 35.11,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/SYxFY_awR1U",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
