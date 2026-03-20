@@ -1,0 +1,21 @@
+{
+  "id": "Quantum Processing",
+  "name": "Quantum Processing",
+  "author": "Riot & More",
+  "creators": [
+    "Riot & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 234.13,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/lsg6T-1n9x4",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
