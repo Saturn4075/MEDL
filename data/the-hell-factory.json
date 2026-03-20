@@ -1,0 +1,21 @@
+{
+  "id": "The Hell Factory",
+  "name": "The Hell Factory",
+  "author": "TeamN2",
+  "creators": [
+    "TeamN2"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 70.27,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=cwvI4P98WRs",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
