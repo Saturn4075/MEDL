@@ -1,0 +1,21 @@
+{
+  "id": "Prismatic Haze",
+  "name": "Prismatic Haze",
+  "author": "Gizbro & Moosh",
+  "creators": [
+    "Gizbro & Moosh"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 64.53,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
