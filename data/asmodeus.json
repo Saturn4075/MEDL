@@ -1,0 +1,21 @@
+{
+  "id": "Asmodeus",
+  "name": "Asmodeus",
+  "author": "Vexion",
+  "creators": [
+    "Vexion"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 110.78,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=ymuyKpGNRkw",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
