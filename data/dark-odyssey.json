@@ -1,0 +1,21 @@
+{
+  "id": "Dark Odyssey",
+  "name": "Dark Odyssey",
+  "author": "JonathanGD",
+  "creators": [
+    "JonathanGD"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 9.79,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/2yEm-R9PnC0",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
