@@ -1,0 +1,27 @@
+{
+  "id": "Endless Dream",
+  "name": "Endless Dream",
+  "author": "DreamTide",
+  "creators": [
+    "DreamTide"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 163.03,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/TiL3uki8mB8",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=pAJvLNrisZE",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
