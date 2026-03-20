@@ -1,0 +1,21 @@
+{
+  "id": "Congregation",
+  "name": "Congregation",
+  "author": "Presta",
+  "creators": [
+    "Presta"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 469.28,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/jhX0L_YOP9o",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
