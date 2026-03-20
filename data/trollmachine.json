@@ -1,0 +1,21 @@
+{
+  "id": "TROLLMACHINE",
+  "name": "TROLLMACHINE",
+  "author": "TROLLM4CHINE",
+  "creators": [
+    "TROLLM4CHINE"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 14.26,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/ryDXBkmWHXM",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
