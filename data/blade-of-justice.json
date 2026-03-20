@@ -1,0 +1,33 @@
+{
+  "id": "Blade of Justice",
+  "name": "Blade of Justice",
+  "author": "Manix648 & LazerBlitz",
+  "creators": [
+    "Manix648 & LazerBlitz"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 117.77,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/mAcvO9HdCws",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/KQcohGzoutU",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/Ex1OioSVzzQ?si=EN20V4t_SYese7ep",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
