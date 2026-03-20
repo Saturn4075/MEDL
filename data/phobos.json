@@ -1,0 +1,21 @@
+{
+  "id": "Phobos",
+  "name": "Phobos",
+  "author": "KrmaL & More",
+  "creators": [
+    "KrmaL & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 112.8,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/s1d35_ElNLk",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
