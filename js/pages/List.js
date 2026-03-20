@@ -1,6 +1,5 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
-import { score } from "../score.js";
 import { fetchEditors, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
@@ -44,7 +43,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p>{{ level.points }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
