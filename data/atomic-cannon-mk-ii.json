@@ -1,0 +1,21 @@
+{
+  "id": "ATOMIC CANNON Mk II",
+  "name": "ATOMIC CANNON Mk II",
+  "author": "Lieb",
+  "creators": [
+    "Lieb"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 558.39,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=M6D5i98ijkM",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
