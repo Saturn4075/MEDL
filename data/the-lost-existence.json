@@ -1,0 +1,27 @@
+{
+  "id": "The Lost Existence",
+  "name": "The Lost Existence",
+  "author": "JonathanGD",
+  "creators": [
+    "JonathanGD"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 9.06,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=LoPdQ8uOtq0",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/vYnpmjvDDP0?si=19Jmy1QM1kWydzgd",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
