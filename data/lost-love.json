@@ -1,0 +1,21 @@
+{
+  "id": "Lost Love",
+  "name": "Lost Love",
+  "author": "TheBlackHell",
+  "creators": [
+    "TheBlackHell"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 8.22,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=YjiI3NXWhWA",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
