@@ -1,0 +1,21 @@
+{
+  "id": "Arctic Lights",
+  "name": "Arctic Lights",
+  "author": "ViRuZ & Endlevel",
+  "creators": [
+    "ViRuZ & Endlevel"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 437.7,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/rb_pnMEToEk?si=dsKuPjDBpBfp9rzf",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
