@@ -1,0 +1,21 @@
+{
+  "id": "Faith",
+  "name": "Faith",
+  "author": "ZeroSR & More",
+  "creators": [
+    "ZeroSR & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 14.5,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=n66C12_q-ds",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
