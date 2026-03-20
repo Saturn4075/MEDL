@@ -1,0 +1,21 @@
+{
+  "id": "Stalemate Redux",
+  "name": "Stalemate Redux",
+  "author": "GDTheTaqtiq & TheFrozenTide",
+  "creators": [
+    "GDTheTaqtiq & TheFrozenTide"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 277.66,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/UHUmgXlXWAw",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
