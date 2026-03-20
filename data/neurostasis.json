@@ -1,0 +1,21 @@
+{
+  "id": "Neurostasis",
+  "name": "Neurostasis",
+  "author": "KiwiPenguin",
+  "creators": [
+    "KiwiPenguin"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 232.24,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=Frg0z2D7kzE",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
