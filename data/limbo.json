@@ -1,0 +1,21 @@
+{
+  "id": "LIMBO",
+  "name": "LIMBO",
+  "author": "Mindcap & More",
+  "creators": [
+    "Mindcap & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 771.81,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": null,
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
