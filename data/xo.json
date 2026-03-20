@@ -1,0 +1,33 @@
+{
+  "id": "xo",
+  "name": "xo",
+  "author": "KrmaL",
+  "creators": [
+    "KrmaL"
+  ],
+  "verifier": "Gumballer",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 336.36,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/ljOXUzxG2ds",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
