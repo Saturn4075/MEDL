@@ -1,0 +1,33 @@
+{
+  "id": "Allegiance",
+  "name": "Allegiance",
+  "author": "Nikroplays",
+  "creators": [
+    "Nikroplays"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 13.34,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=f14XilW3Dm8",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/pYA6jFmo5wk",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://www.youtube.com/watch?v=gb1vAhXgUVw",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
