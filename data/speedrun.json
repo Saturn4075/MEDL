@@ -1,0 +1,21 @@
+{
+  "id": "SPEEDRUN",
+  "name": "SPEEDRUN",
+  "author": "Kaito",
+  "creators": [
+    "Kaito"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 148.82,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/EhG0wc7IHnA",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
