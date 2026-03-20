@@ -1,0 +1,21 @@
+{
+  "id": "Abandoned Planet",
+  "name": "Abandoned Planet",
+  "author": "Metalface221",
+  "creators": [
+    "Metalface221"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 111.45,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://www.youtube.com/watch?v=3jbU0ONjf1M",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
