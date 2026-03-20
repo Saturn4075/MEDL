@@ -1,0 +1,21 @@
+{
+  "id": "Decay",
+  "name": "Decay",
+  "author": "KiwiPenguin",
+  "creators": [
+    "KiwiPenguin"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 6.92,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/XrQLE5X5Gp8",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
