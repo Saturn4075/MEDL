@@ -1,0 +1,21 @@
+{
+  "id": "Aftermath",
+  "name": "Aftermath",
+  "author": "Exenity & more",
+  "creators": [
+    "Exenity & more"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 37.78,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/u_umwlnsD1I",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
