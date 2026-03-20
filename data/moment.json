@@ -1,0 +1,33 @@
+{
+  "id": "Moment",
+  "name": "Moment",
+  "author": "Lexycat & Icedcave",
+  "creators": [
+    "Lexycat & Icedcave"
+  ],
+  "verifier": "Saturn4075",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 72.2,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=QLL7g8_Ezbw",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/xh2hR-VfsBI",
+      "percent": ".",
+      "hz": 240
+    },
+    {
+      "user": "SpringWater",
+      "link": "https://www.facebook.com/groups/1055132688305698/posts/2337527143399573/",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
