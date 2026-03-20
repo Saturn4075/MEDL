@@ -1,0 +1,21 @@
+{
+  "id": "Niflheim",
+  "name": "Niflheim",
+  "author": "Vismuth",
+  "creators": [
+    "Vismuth"
+  ],
+  "verifier": "Meeren",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 35.6,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/T8dEtZrEXkI?si=bWxw4a_BN535u7Sv",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
