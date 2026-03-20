@@ -1,0 +1,21 @@
+{
+  "id": "Carnage Mode",
+  "name": "Carnage Mode",
+  "author": "Findexi & More",
+  "creators": [
+    "Findexi & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 120.68,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/yXq--nimqq8",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
