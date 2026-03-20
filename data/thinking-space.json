@@ -1,0 +1,21 @@
+{
+  "id": "Thinking Space",
+  "name": "Thinking Space",
+  "author": "Atomic & HidekiX",
+  "creators": [
+    "Atomic & HidekiX"
+  ],
+  "verifier": "YuNotYou",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 578.24,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=Z9CO1vPpFt4",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
