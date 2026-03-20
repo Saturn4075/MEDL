@@ -1,0 +1,21 @@
+{
+  "id": "Tartarus",
+  "name": "Tartarus",
+  "author": "Riot & More",
+  "creators": [
+    "Riot & More"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 703.75,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": "https://youtu.be/JDaBBmnaUa0",
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
