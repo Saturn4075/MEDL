@@ -1,0 +1,21 @@
+{
+  "id": "Spectrum Split",
+  "name": "Spectrum Split",
+  "author": "addsomething & Soulwinds",
+  "creators": [
+    "addsomething & Soulwinds"
+  ],
+  "verifier": "Gatheron",
+  "verification": null,
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 178.06,
+  "records": [
+    {
+      "user": "Gatheron",
+      "link": null,
+      "percent": ".",
+      "hz": 240
+    }
+  ]
+}
