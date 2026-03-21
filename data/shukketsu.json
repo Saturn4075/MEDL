@@ -6,7 +6,7 @@
     "zYuko & More"
   ],
   "verifier": "YuNotYou",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=0Hjc0OQWDrk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 664.26,
@@ -14,7 +14,7 @@
     {
       "user": "YuNotYou",
       "link": "https://www.youtube.com/watch?v=0Hjc0OQWDrk",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
