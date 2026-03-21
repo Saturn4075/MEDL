@@ -46,7 +46,7 @@ export default {
                             <p>{{ level.points }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">ID</div>
+                            <div class="type-title-sm">Level</div>
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
