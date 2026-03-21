@@ -6,7 +6,7 @@
     "ZeroSR & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=n66C12_q-ds",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 14.5,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=n66C12_q-ds",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
