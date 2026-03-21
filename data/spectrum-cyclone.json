@@ -6,7 +6,7 @@
     "Temp"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "http://www.youtube.com/watch?v=Q39Fg8FyHj8",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 431.65,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "http://www.youtube.com/watch?v=Q39Fg8FyHj8",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
