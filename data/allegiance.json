@@ -6,7 +6,7 @@
     "Nikroplays"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/pYA6jFmo5wk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 13.34,
@@ -14,19 +14,19 @@
     {
       "user": "YuNotYou",
       "link": "https://www.youtube.com/watch?v=f14XilW3Dm8",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/pYA6jFmo5wk",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Meeren",
       "link": "https://www.youtube.com/watch?v=gb1vAhXgUVw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
