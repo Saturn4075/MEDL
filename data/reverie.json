@@ -6,7 +6,7 @@
     "GaidenHertuny & More"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/jAlhv0Gehnk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.16,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/jAlhv0Gehnk",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
