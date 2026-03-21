@@ -6,7 +6,7 @@
     "Dongchi"
   ],
   "verifier": "Gumballer",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=IQjRRD1yolw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 12.45,
@@ -14,7 +14,7 @@
     {
       "user": "Gumballer",
       "link": "https://www.youtube.com/watch?v=IQjRRD1yolw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
