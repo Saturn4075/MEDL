@@ -6,7 +6,7 @@
     "xSmokes & Giron"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=apY5cCg8jsg",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 433.36,
@@ -14,7 +14,7 @@
     {
       "user": "Meeren",
       "link": "https://www.youtube.com/watch?v=apY5cCg8jsg",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
