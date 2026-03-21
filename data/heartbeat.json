@@ -6,7 +6,7 @@
     "KrmaL"
   ],
   "verifier": "Gumballer",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=hKwaoTyRt1s",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 26.87,
@@ -14,7 +14,7 @@
     {
       "user": "Gumballer",
       "link": "https://www.youtube.com/watch?v=hKwaoTyRt1s",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
