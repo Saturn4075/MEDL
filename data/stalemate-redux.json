@@ -6,7 +6,7 @@
     "GDTheTaqtiq & TheFrozenTide"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/UHUmgXlXWAw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 277.66,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/UHUmgXlXWAw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
