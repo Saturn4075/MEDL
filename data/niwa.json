@@ -6,7 +6,7 @@
     "Teno & More"
   ],
   "verifier": "YuNotYou",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=QLL7g8_Ezbw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.6,
@@ -14,31 +14,31 @@
     {
       "user": "YuNotYou",
       "link": "https://www.youtube.com/watch?v=QLL7g8_Ezbw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/ef9sGmiAz1g",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Meeren",
       "link": "https://youtu.be/otFvxsK4Jf4",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "trulysoul",
       "link": "https://youtu.be/wi0G-GG1X-I?si=og2PcbYG79rWttL6",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "ArielFr11",
       "link": "https://youtu.be/Nxuc0dK2_cQ?si=f2Pyv663HJ1oQVkP",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
