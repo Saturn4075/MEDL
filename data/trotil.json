@@ -6,7 +6,7 @@
     "CherryTeam"
   ],
   "verifier": "YuNotYou",
-  "verification": null,
+  "verification": "https://youtu.be/rAdCcd0h93s?si=u1YnBFXd6jA5jdAv",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 571.94,
@@ -14,7 +14,7 @@
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/rAdCcd0h93s?si=u1YnBFXd6jA5jdAv",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
