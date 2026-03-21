@@ -6,7 +6,7 @@
     "Bianox & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.facebook.com/share/v/1ZcpNKXR2D/",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 606.93,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.facebook.com/share/v/1ZcpNKXR2D/",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
