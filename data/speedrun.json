@@ -6,7 +6,7 @@
     "Kaito"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/EhG0wc7IHnA",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 148.82,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/EhG0wc7IHnA",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
