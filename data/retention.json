@@ -6,7 +6,7 @@
     "Woogi1411"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/DIZDYDRNdy4?si=R7Q0P5ZW-eStwros&t=51",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 17.19,
@@ -14,19 +14,19 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=yFA6jJosqEY",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/DIZDYDRNdy4?si=R7Q0P5ZW-eStwros&t=51",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Meeren",
       "link": "https://youtu.be/-sjvuZGuh-4?si=PEpjisrFkIe2KqnY",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
