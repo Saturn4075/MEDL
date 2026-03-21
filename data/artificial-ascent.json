@@ -6,7 +6,7 @@
     "Viprin & More"
   ],
   "verifier": "M3nda",
-  "verification": null,
+  "verification": "https://youtu.be/7dyerd8w4hM?si=ftLAQr45UzRB1FHe",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 257.43,
@@ -14,19 +14,19 @@
     {
       "user": "Meeren",
       "link": "https://youtu.be/eUQbKiMZUcs",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "m3ndA",
       "link": "https://youtu.be/7dyerd8w4hM?si=ftLAQr45UzRB1FHe",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "ErrorDudeHello",
       "link": "https://www.youtube.com/watch?v=DgBm6jywJtc",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
