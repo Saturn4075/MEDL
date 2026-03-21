@@ -6,7 +6,7 @@
     "Helpegasus & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/bfi31LJu11Y",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 375.4,
@@ -14,13 +14,13 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/bfi31LJu11Y",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/I9rECfwIge8?si=h0eyn0SbD0OD7zfC",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
