@@ -6,7 +6,7 @@
     "Gizbro & Moosh"
   ],
   "verifier": "YuNotYou",
-  "verification": null,
+  "verification": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 64.53,
@@ -14,7 +14,7 @@
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
