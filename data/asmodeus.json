@@ -6,7 +6,7 @@
     "Vexion"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=ymuyKpGNRkw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 110.78,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=ymuyKpGNRkw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
