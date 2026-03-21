@@ -6,7 +6,7 @@
     "Exenity & more"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/u_umwlnsD1I",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 37.78,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/u_umwlnsD1I",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
