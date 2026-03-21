@@ -6,7 +6,7 @@
     "Hexitine"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 80.75,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
