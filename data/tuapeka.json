@@ -6,7 +6,7 @@
     "Feijoaoa"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=DgiB8YzGFwQ",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 20.45,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://www.youtube.com/watch?v=DgiB8YzGFwQ",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
