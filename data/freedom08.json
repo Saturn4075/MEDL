@@ -6,7 +6,7 @@
     "Pennutoh & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/2kshTDw6IIU",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 320.29,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/2kshTDw6IIU",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
