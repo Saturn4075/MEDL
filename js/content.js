@@ -47,29 +47,87 @@ export async function fetchEditors() {
 }
 
 export async function fetchLeaderboard() {
-
     const errs = [];
 
+    // Step 1: Parse all level JSON files (original logic)
+    const list = await fetchList(); // fetches all level JSONs
+    const scoreMap = {};
+
+    list.forEach(([level, err], rank) => {
+        if (err) {
+            errs.push(err);
+            return;
+        }
+
+        // Verification
+        const verifier = Object.keys(scoreMap).find(
+            u => u.toLowerCase() === (level.verifier || "").toLowerCase()
+        ) || level.verifier;
+
+        scoreMap[verifier] ??= { verified: [], completed: [], progressed: [] };
+        const { verified } = scoreMap[verifier];
+        if (level.verification) {
+            verified.push({
+                rank: rank + 1,
+                level: level.name,
+                score: level.points, // or keep your points function
+                link: level.verification
+            });
+        }
+
+        // Records
+        level.records.forEach(record => {
+            const user = Object.keys(scoreMap).find(
+                u => u.toLowerCase() === record.user.toLowerCase()
+            ) || record.user;
+            scoreMap[user] ??= { verified: [], completed: [], progressed: [] };
+            const { completed, progressed } = scoreMap[user];
+
+            if (record.percent === 100) {
+                completed.push({
+                    rank: rank + 1,
+                    level: level.name,
+                    score: record.score || level.points,
+                    link: record.link
+                });
+            } else {
+                progressed.push({
+                    rank: rank + 1,
+                    level: level.name,
+                    percent: record.percent,
+                    score: record.score || level.points,
+                    link: record.link
+                });
+            }
+        });
+    });
+
+    // Step 2: Fetch live totals from Apps Script
+    let manualTotals = {};
     try {
-
-        const res = await fetch("https://script.google.com/macros/s/AKfycbyzbhaK2tp0oPvH21mehqi53bew43w7QOBdXgbFZ_WYebHUc-oK0D2h-UhLLfbIAPYhgA/exec?type=leaderboard");
-        const data = await res.json();
-
-        const resFormatted = data.map(player => ({
-            user: player.user,
-            total: player.total,
-            verified: [],
-            completed: [],
-            progressed: []
-        }));
-
-        return [resFormatted.sort((a,b)=>b.total-a.total), errs];
-
+        const r = await fetch("https://script.google.com/macros/s/AKfycbyzbhaK2tp0oPvH21mehqi53bew43w7QOBdXgbFZ_WYebHUc-oK0D2h-UhLLfbIAPYhgA/exec?type=leaderboard");
+        const data = await r.json();
+        data.forEach(p => {
+            manualTotals[p.user.toLowerCase()] = p.total;
+        });
     } catch (err) {
-
-        console.error(err);
-        errs.push("Leaderboard failed to load");
-        return [[], errs];
-
+        console.warn("Leaderboard API failed", err);
     }
+
+    // Step 3: Merge records with manual totals
+    const res = Object.entries(scoreMap).map(([user, scores]) => {
+        const { verified, completed, progressed } = scores;
+
+        // Use manual total if exists, otherwise sum calculated points
+        const calculatedTotal = [verified, completed, progressed]
+            .flat()
+            .reduce((prev, cur) => prev + cur.score, 0);
+
+        const total = manualTotals[user.toLowerCase()] ?? calculatedTotal;
+
+        return { user, total, ...scores };
+    });
+
+    // Sort by total descending
+    return [res.sort((a, b) => b.total - a.total), errs];
 }
