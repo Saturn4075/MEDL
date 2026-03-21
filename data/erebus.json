@@ -6,7 +6,7 @@
     "Boldstep, Rustam & Ilrell"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=j_CqOhUIg1c",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 319.57,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=j_CqOhUIg1c",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
