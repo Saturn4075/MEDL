@@ -6,7 +6,7 @@
     "robianny"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/DCzKGRvMuFI",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 11.39,
@@ -14,7 +14,7 @@
     {
       "user": "Meeren",
       "link": "https://youtu.be/DCzKGRvMuFI",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
