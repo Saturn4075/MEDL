@@ -6,7 +6,7 @@
     "KrmaL"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/OYcSvjRhUG0",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 17.14,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/OYcSvjRhUG0",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
