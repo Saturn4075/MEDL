@@ -6,7 +6,7 @@
     "Riot & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/JDaBBmnaUa0",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 703.75,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/JDaBBmnaUa0",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
