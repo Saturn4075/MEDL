@@ -6,7 +6,7 @@
     "Zeroya & More"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/S7QFDJGCFKQ",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 231.31,
@@ -14,13 +14,13 @@
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/I_A3mpv6cqw?si=w14aElo4586Ips_t",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/S7QFDJGCFKQ",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
