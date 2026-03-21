@@ -6,7 +6,7 @@
     "Knobbelboy"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=23U7e6oI5-M",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 222.39,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=23U7e6oI5-M",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
