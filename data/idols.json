@@ -6,7 +6,7 @@
     "Zafkiel & More"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/WyKa-kxujBU",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 73.38,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/WyKa-kxujBU",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
