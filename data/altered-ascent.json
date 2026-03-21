@@ -6,7 +6,7 @@
     "Prism & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/uD9oLa-112I",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 334.75,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/uD9oLa-112I",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
