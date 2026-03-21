@@ -6,7 +6,7 @@
     "Ilnm & More"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=kf0t9-f8WQ8",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 15.1,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=kf0t9-f8WQ8",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
