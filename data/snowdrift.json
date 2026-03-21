@@ -6,7 +6,7 @@
     "Bratki"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/YPUuSmcHxaE",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 8.77,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/YPUuSmcHxaE",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
