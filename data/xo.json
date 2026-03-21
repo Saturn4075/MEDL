@@ -6,7 +6,7 @@
     "KrmaL"
   ],
   "verifier": "Gumballer",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 336.36,
@@ -14,19 +14,19 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/ljOXUzxG2ds",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "YuNotYou",
       "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Gumballer",
       "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
