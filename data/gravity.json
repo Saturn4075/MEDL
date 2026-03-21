@@ -6,7 +6,7 @@
     "Kaza & slayer"
   ],
   "verifier": "YuNotYou",
-  "verification": null,
+  "verification": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 75.83,
@@ -14,13 +14,13 @@
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "iroha",
       "link": "https://youtu.be/edi2hffLVZ0?si=C2ppdhCPgkuxU12K",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
