@@ -52,7 +52,7 @@ export async function fetchLeaderboard() {
 
     try {
 
-        const res = await fetch("YOUR_APPS_SCRIPT_URL?type=leaderboard");
+        const res = await fetch("https://script.google.com/macros/s/AKfycbzM1Y2pmJ6vxjsvYzysnltX-RBSrzHD8AYKu-Q9tOLrqC62PKnjJOCVWLiWgKedAUKfkg/exec?type=leaderboard");
         const data = await res.json();
 
         const resFormatted = data.map(player => ({
