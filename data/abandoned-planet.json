@@ -6,7 +6,7 @@
     "Metalface221"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=3jbU0ONjf1M",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 111.45,
@@ -14,7 +14,7 @@
     {
       "user": "Gatheron",
       "link": "https://www.youtube.com/watch?v=3jbU0ONjf1M",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
