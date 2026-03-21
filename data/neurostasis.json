@@ -6,7 +6,7 @@
     "KiwiPenguin"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=Frg0z2D7kzE",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 232.24,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://www.youtube.com/watch?v=Frg0z2D7kzE",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
