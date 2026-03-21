@@ -6,7 +6,7 @@
     "DreamTide"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=pAJvLNrisZE",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 163.03,
@@ -14,13 +14,13 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/TiL3uki8mB8",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Saturn4075",
       "link": "https://www.youtube.com/watch?v=pAJvLNrisZE",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
