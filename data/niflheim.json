@@ -6,7 +6,7 @@
     "Vismuth"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/T8dEtZrEXkI?si=bWxw4a_BN535u7Sv",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 35.6,
@@ -14,7 +14,7 @@
     {
       "user": "Meeren",
       "link": "https://youtu.be/T8dEtZrEXkI?si=bWxw4a_BN535u7Sv",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
