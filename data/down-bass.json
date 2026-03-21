@@ -6,7 +6,7 @@
     "Spectruh"
   ],
   "verifier": "Gatheron",
-  "verification": null,
+  "verification": "https://youtu.be/6YrxOk_qDIY",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 67.69,
@@ -14,13 +14,13 @@
     {
       "user": "Gatheron",
       "link": "https://youtu.be/6YrxOk_qDIY",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     },
     {
       "user": "Meeren",
       "link": "https://youtu.be/B6PMWuhQAwY?si=gxRbQ8-kQSPQJU8s",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
