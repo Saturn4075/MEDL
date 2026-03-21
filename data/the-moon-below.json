@@ -6,7 +6,7 @@
     "Onvil"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/XMGh-xozDKQ",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 258.68,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/XMGh-xozDKQ",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
