@@ -6,7 +6,7 @@
     "Loltad"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/UirWvrszWEw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 180,
@@ -14,7 +14,7 @@
     {
       "user": "Saturn4075",
       "link": "https://youtu.be/UirWvrszWEw",
-      "percent": ".",
+      "percent": 100,
       "hz": 240
     }
   ]
