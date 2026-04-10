@@ -6,9 +6,16 @@
     "PlebKIngdom"
   ],
   "verifier": "ErrorDudeHello",
-  "verification": null,
+  "verification": "https://www.facebook.com/share/v/1az67Ucv9K/",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 13.55,
-  "records": []
+  "records": [
+    {
+      "user": "ErrorDudeHello",
+      "link": "https://www.facebook.com/share/v/1az67Ucv9K/",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
