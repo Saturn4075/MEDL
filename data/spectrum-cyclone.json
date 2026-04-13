@@ -6,16 +6,9 @@
     "Temp"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/p97tAgZ3ufU",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 431.46,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/p97tAgZ3ufU",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
