@@ -6,16 +6,9 @@
     "Bianox & More"
   ],
   "verifier": "Gatheron",
-  "verification": "https://www.youtube.com/watch?v=nJLslmHh7Qo",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 610.42,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://www.youtube.com/watch?v=nJLslmHh7Qo",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
