@@ -6,17 +6,11 @@
     "JonathanGD"
   ],
   "verifier": "Gatheron",
-  "verification": "https://www.youtube.com/watch?v=LoPdQ8uOtq0",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 9.09,
   "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://www.youtube.com/watch?v=LoPdQ8uOtq0",
-      "percent": 100,
-      "hz": 240
-    },
     {
       "user": "Meeren",
       "link": "https://youtu.be/vYnpmjvDDP0?si=19Jmy1QM1kWydzgd",
