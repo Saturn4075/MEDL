@@ -5,29 +5,10 @@
   "creators": [
     "Enfur"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/pYA6jFmo5wk",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 14.27,
-  "records": [
-    {
-      "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?v=f14XilW3Dm8",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/pYA6jFmo5wk",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "Meeren",
-      "link": "https://www.youtube.com/watch?v=gb1vAhXgUVw",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
