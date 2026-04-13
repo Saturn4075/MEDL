@@ -6,16 +6,9 @@
     "Viprin & More"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/dAA0cYuzSLU",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 452.73,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/dAA0cYuzSLU",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
