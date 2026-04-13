@@ -5,10 +5,17 @@
   "creators": [
     "Gizbro & Moosh"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/grJrq0n9UT8",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 63.51,
-  "records": []
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/grJrq0n9UT8",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
