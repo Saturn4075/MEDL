@@ -5,10 +5,17 @@
   "creators": [
     "zYuko & More"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "YuNotYou",
+  "verification": "https://www.youtube.com/watch?v=0Hjc0OQWDrk",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 663.69,
-  "records": []
+  "points": 573.12,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=0Hjc0OQWDrk",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
