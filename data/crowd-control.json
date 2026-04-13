@@ -5,15 +5,15 @@
   "creators": [
     "Endlevel & More"
   ],
-  "verifier": "Tink",
-  "verification": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
+  "verifier": "ErrorDudeHello",
+  "verification": "https://youtu.be/Mi7LEQTC-0w",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 15.05,
+  "points": 14.51,
   "records": [
     {
-      "user": "Tink",
-      "link": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
+      "user": "ErrorDudeHello",
+      "link": "https://youtu.be/Mi7LEQTC-0w",
       "percent": 100,
       "hz": 240
     }
