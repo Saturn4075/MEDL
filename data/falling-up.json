@@ -5,10 +5,17 @@
   "creators": [
     "KrmaL"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://www.youtube.com/watch?v=jMOrTpS_eBU",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 17.12,
-  "records": []
+  "points": 15.1,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=jMOrTpS_eBU",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
