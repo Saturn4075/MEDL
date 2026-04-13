@@ -5,17 +5,10 @@
   "creators": [
     "JonathanGD"
   ],
-  "verifier": "Tink",
-  "verification": "https://youtu.be/SFNgNRUEG-E?si=q6TdfSHlZ846def2",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 8.34,
-  "records": [
-    {
-      "user": "Tink",
-      "link": "https://youtu.be/SFNgNRUEG-E?si=q6TdfSHlZ846def2",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 9.09,
+  "records": []
 }
