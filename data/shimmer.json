@@ -5,10 +5,17 @@
   "creators": [
     "Amplitron"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "YuNotYou",
+  "verification": "https://www.youtube.com/watch?v=Hl1uAy1ZxKs",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 525.43,
-  "records": []
+  "points": 564.82,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=Hl1uAy1ZxKs",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
