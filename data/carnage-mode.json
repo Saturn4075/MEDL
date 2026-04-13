@@ -6,16 +6,9 @@
     "Findexi & More"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/yXq--nimqq8",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 120.65,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/yXq--nimqq8",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
