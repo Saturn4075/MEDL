@@ -10,12 +10,5 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": 178.14,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": null,
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
