@@ -9,6 +9,13 @@
   "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 178.14,
-  "records": []
+  "points": 183.62,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/sTqm9YnpG-I?si=tWVDjDOBO6kpdJ_r",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
