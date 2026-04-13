@@ -5,17 +5,10 @@
   "creators": [
     "Shard"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/a7zQFIx6LNs",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 10.9,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/a7zQFIx6LNs",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 9.86,
+  "records": []
 }
