@@ -6,16 +6,9 @@
     "JonathanGD"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/2yEm-R9PnC0",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 9.86,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/2yEm-R9PnC0",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
