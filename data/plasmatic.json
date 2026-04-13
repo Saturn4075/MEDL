@@ -6,16 +6,9 @@
     "JumpingTheory"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/79Ro19GtT84",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 10.07,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/79Ro19GtT84",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
