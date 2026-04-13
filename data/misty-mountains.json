@@ -5,21 +5,81 @@
   "creators": [
     "We4therMan"
   ],
-  "verifier": "Tink",
-  "verification": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
+  "verifier": "GhostRiderYT",
+  "verification": "https://www.facebook.com/groups/792746760809564/posts/5009916379092560",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 5.61,
   "records": [
     {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/8PybaDz_M8U?si=neeDBXnhtFW2U2Gm",
+      "percent": 100,
+      "hz": 240
+    },
+    {
       "user": "Saturn4075",
-      "link": "https://youtu.be/2OGjxsJxMWg",
+      "link": "https://youtu.be/-ZwMPKZcnf4",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/0uCxFNVvkx4?si=YmH-y-AVkHluaGph",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "SpringWater",
+      "link": "https://www.youtube.com/watch?v=GV6XL9CHHPY",
       "percent": 100,
       "hz": 240
     },
     {
       "user": "Tink",
-      "link": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
+      "link": "https://youtu.be/a73iyNqstqg?si=4G5pzqcBOb2WoLwr",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "BadGMD",
+      "link": "https://www.youtube.com/watch?v=vbSDB7oc2p0",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "ArielFr11",
+      "link": "https://www.facebook.com/share/v/18SEYBfXxj/",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "GhostRiderYT",
+      "link": "https://www.facebook.com/groups/792746760809564/posts/5009916379092560",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "ErdemtugsC",
+      "link": "https://www.youtube.com/watch?v=Kmqhp05VcPQ",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Milk1337",
+      "link": "https://www.youtube.com/watch?v=bwzoftVaXYs",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "BataaEmpire",
+      "link": "https://youtu.be/hbbG_kVrVP8?si=CA91-Y3spUUzZdpT",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "JustAnBacon",
+      "link": "https://youtu.be/JL1G02cJnHA?si=_G50Zd7peD3YKcz_",
       "percent": 100,
       "hz": 240
     }
