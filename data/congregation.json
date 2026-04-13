@@ -5,10 +5,17 @@
   "creators": [
     "Presta"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Meeren",
+  "verification": "https://www.youtube.com/watch?v=apY5cCg8jsg",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 469.44,
-  "records": []
+  "points": 444.46,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://www.youtube.com/watch?v=apY5cCg8jsg",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
