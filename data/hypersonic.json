@@ -5,17 +5,10 @@
   "creators": [
     "Viprin & More"
   ],
-  "verifier": "Meeren",
-  "verification": "https://youtu.be/DCzKGRvMuFI",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 11.39,
-  "records": [
-    {
-      "user": "Meeren",
-      "link": "https://youtu.be/DCzKGRvMuFI",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
