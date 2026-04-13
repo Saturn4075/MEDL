@@ -5,10 +5,17 @@
   "creators": [
     "GDTheTaqtiq & TheFrozenTide"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "YuNotYou",
+  "verification": "https://www.youtube.com/watch?si=GIUK32yKn_a6dNhJ&v=hlWjXmjFpk0&feature=youtu.be",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 277.89,
-  "records": []
+  "points": 258.45,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?si=GIUK32yKn_a6dNhJ&v=hlWjXmjFpk0&feature=youtu.be",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
