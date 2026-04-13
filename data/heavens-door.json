@@ -5,10 +5,17 @@
   "creators": [
     "TMco"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "YuNotYou",
+  "verification": "https://youtu.be/4QXOilOBy7g?si=e7uuAyA77OzNj_sD&t=143",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 40,
-  "records": []
+  "points": 63.85,
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/4QXOilOBy7g?si=e7uuAyA77OzNj_sD&t=143",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
