@@ -5,17 +5,10 @@
   "creators": [
     "JumpingTheory"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/YPUuSmcHxaE",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 9.43,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/YPUuSmcHxaE",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 10.07,
+  "records": []
 }
