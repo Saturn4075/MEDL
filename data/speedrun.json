@@ -5,23 +5,10 @@
   "creators": [
     "Kaito"
   ],
-  "verifier": "m3ndA",
-  "verification": "https://www.youtube.com/watch?v=aKrcqsAxS7k&list=PLVLyh6l0ayHzBV3aUgc9q1M9wXWRJJ4qT&index=3&t=1s&pp=iAQB",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 138.74,
-  "records": [
-    {
-      "user": "Meeren",
-      "link": "https://youtu.be/6pa4-kdAmZc?si=wrN-jG7yyMDLjjO3",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "m3ndA",
-      "link": "https://www.youtube.com/watch?v=aKrcqsAxS7k&list=PLVLyh6l0ayHzBV3aUgc9q1M9wXWRJJ4qT&index=3&t=1s&pp=iAQB",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
