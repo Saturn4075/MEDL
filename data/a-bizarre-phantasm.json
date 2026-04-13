@@ -6,16 +6,9 @@
     "TeamN2"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/xRGStFhRZcw",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 63.51,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/xRGStFhRZcw",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
