@@ -6,16 +6,9 @@
     "TROLLM4CHINE"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/ryDXBkmWHXM",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 14.27,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/ryDXBkmWHXM",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
