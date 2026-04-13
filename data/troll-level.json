@@ -5,10 +5,23 @@
   "creators": [
     "Glitchy, Lexycat & lena"
   ],
-  "verifier": "",
-  "verification": null,
+  "verifier": "Tink",
+  "verification": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 5.19,
-  "records": []
+  "points": 5.61,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/2OGjxsJxMWg",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
