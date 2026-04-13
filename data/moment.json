@@ -5,10 +5,17 @@
   "creators": [
     "Lexycat & Icedcave"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "YuNotYou",
+  "verification": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 70.27,
-  "records": []
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
