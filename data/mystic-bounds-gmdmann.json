@@ -1,0 +1,21 @@
+{
+  "id": "Mystic Bounds",
+  "name": "Mystic Bounds",
+  "author": "GmdMann",
+  "creators": [
+    "GmdMann"
+  ],
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/XrQLE5X5Gp8",
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 6.85,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/XrQLE5X5Gp8",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}
