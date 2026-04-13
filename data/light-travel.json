@@ -5,10 +5,17 @@
   "creators": [
     "Dongchi"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Gumballer",
+  "verification": "https://www.youtube.com/watch?v=IQjRRD1yolw",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 10.9,
-  "records": []
+  "points": 12.48,
+  "records": [
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=IQjRRD1yolw",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
