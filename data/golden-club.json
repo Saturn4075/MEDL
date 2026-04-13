@@ -5,27 +5,21 @@
   "creators": [
     "Zenmuron"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Gumballer",
+  "verification": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 355.33,
   "records": [
     {
       "user": "YuNotYou",
-      "link": "https://youtu.be/rb_pnMEToEk?si=dsKuPjDBpBfp9rzf",
+      "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
       "percent": 100,
       "hz": 240
     },
     {
-      "user": "Meeren",
-      "link": "https://youtu.be/uHmojeh4VG0?si=vcLIa_vwv8_BqrNg",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "khangisar",
-      "link": "https://medal.tv/games/geometry-dash/clips/mmFV39EleHbujnH-L?invite=cr-MSxrMUYsMzI4ODU0MTEx&v=145",
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
       "percent": 100,
       "hz": 240
     }
