@@ -5,15 +5,27 @@
   "creators": [
     "Lexycat & Icedcave"
   ],
-  "verifier": "YuNotYou",
-  "verification": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/xh2hR-VfsBI",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 70.27,
+  "points": 72.2,
   "records": [
     {
       "user": "YuNotYou",
-      "link": "https://youtu.be/BmRC8Uqi0w4?si=W-oP6eT1SJoTcL8E",
+      "link": "https://www.youtube.com/watch?v=QLL7g8_Ezbw",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/xh2hR-VfsBI",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "SpringWater",
+      "link": "https://www.facebook.com/groups/1055132688305698/posts/2337527143399573/",
       "percent": 100,
       "hz": 240
     }
