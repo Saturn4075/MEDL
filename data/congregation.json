@@ -5,15 +5,15 @@
   "creators": [
     "Presta"
   ],
-  "verifier": "Meeren",
-  "verification": "https://www.youtube.com/watch?v=apY5cCg8jsg",
+  "verifier": "YuNotYou",
+  "verification": "https://www.youtube.com/watch?v=dDlYTQllCuY",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 444.46,
   "records": [
     {
-      "user": "Meeren",
-      "link": "https://www.youtube.com/watch?v=apY5cCg8jsg",
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=dDlYTQllCuY",
       "percent": 100,
       "hz": 240
     }
