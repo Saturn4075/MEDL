@@ -5,10 +5,35 @@
   "creators": [
     "Viprin & More"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Kenny",
+  "verification": "https://www.youtube.com/watch?v=BLEXV-WYAkY",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 11.39,
-  "records": []
+  "points": 12.75,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/xa2Po3nB6WY",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/uJVVR6sa5qo?si=vHLmGEmiCuY35Dn7",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Kenny",
+      "link": "https://www.youtube.com/watch?v=BLEXV-WYAkY",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/DRE73aVguw8?si=AorbCTn2cL0ZVGyL",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
