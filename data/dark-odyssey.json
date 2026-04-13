@@ -5,15 +5,69 @@
   "creators": [
     "JonathanGD"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://www.youtube.com/watch?v=5i2s1R7crNI&t=55s",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 9.09,
   "records": [
     {
+      "user": "YuNotYou",
+      "link": "https://www.twitch.tv/videos/2700288407",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=5i2s1R7crNI&t=55s",
+      "percent": 100,
+      "hz": 240
+    },
+    {
       "user": "Meeren",
-      "link": "https://youtu.be/vYnpmjvDDP0?si=19Jmy1QM1kWydzgd",
+      "link": "https://youtu.be/g1PR5Qq_L7c",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=JfxcXNZ1sPw",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://www.facebook.com/share/v/17poSrYpxu/",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "khangisar",
+      "link": "https://medal.tv/games/geometry-dash/clips/mqiyuSdNsm-3W40JO",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "SpringWater",
+      "link": "https://www.facebook.com/share/v/17NuSxKGdV/",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "BadGMD",
+      "link": "https://www.youtube.com/watch?v=tNX5QJWh5-M",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "SkinnyPotato",
+      "link": "https://www.youtube.com/watch?v=H-yfAB1z83o",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Nano",
+      "link": "https://youtu.be/u1uC60YTV5U",
       "percent": 100,
       "hz": 240
     }
