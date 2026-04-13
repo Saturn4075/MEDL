@@ -10,5 +10,12 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": 183.62,
-  "records": []
+  "records": [
+    {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/sTqm9YnpG-I?si=tWVDjDOBO6kpdJ_r",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
