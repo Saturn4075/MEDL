@@ -5,17 +5,10 @@
   "creators": [
     "Lieb"
   ],
-  "verifier": "YuNotYou",
-  "verification": "https://www.youtube.com/watch?v=fy2EdRrRrkM",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 521.25,
-  "records": [
-    {
-      "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?v=fy2EdRrRrkM",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
