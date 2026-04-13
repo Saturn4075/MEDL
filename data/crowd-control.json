@@ -5,17 +5,10 @@
   "creators": [
     "Endlevel & More"
   ],
-  "verifier": "ErrorDudeHello",
-  "verification": "https://youtu.be/Mi7LEQTC-0w",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 14.51,
-  "records": [
-    {
-      "user": "ErrorDudeHello",
-      "link": "https://youtu.be/Mi7LEQTC-0w",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
