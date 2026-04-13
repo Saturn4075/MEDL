@@ -5,17 +5,10 @@
   "creators": [
     "DreamZoneGD"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/E-YG8PaUmKs",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 295.77,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/E-YG8PaUmKs",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 277.89,
+  "records": []
 }
