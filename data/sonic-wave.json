@@ -5,23 +5,10 @@
   "creators": [
     "Cyclic"
   ],
-  "verifier": "Gumballer",
-  "verification": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 336.36,
-  "records": [
-    {
-      "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "Gumballer",
-      "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
