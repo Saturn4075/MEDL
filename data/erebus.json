@@ -9,6 +9,13 @@
   "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 319.57,
-  "records": []
+  "points": 293.29,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=kmS0TkRDSI8",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
