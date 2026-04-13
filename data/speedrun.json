@@ -5,10 +5,17 @@
   "creators": [
     "Kaito"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/EhG0wc7IHnA",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 138.74,
-  "records": []
+  "points": 147.33,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/EhG0wc7IHnA",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
