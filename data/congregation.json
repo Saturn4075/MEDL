@@ -6,16 +6,9 @@
     "Presta"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/jhX0L_YOP9o",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 469.44,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/jhX0L_YOP9o",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
