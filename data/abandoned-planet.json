@@ -5,23 +5,10 @@
   "creators": [
     "Metalface221"
   ],
-  "verifier": "YuNotYou",
-  "verification": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 105.19,
-  "records": [
-    {
-      "user": "YuNotYou",
-      "link": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "iroha",
-      "link": "https://youtu.be/edi2hffLVZ0?si=C2ppdhCPgkuxU12K",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 110.88,
+  "records": []
 }
