@@ -5,17 +5,10 @@
   "creators": [
     "IcEDCave"
   ],
-  "verifier": "YuNotYou",
-  "verification": "https://www.youtube.com/watch?v=dDlYTQllCuY",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 469.44,
-  "records": [
-    {
-      "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?v=dDlYTQllCuY",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
