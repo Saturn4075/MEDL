@@ -5,17 +5,10 @@
   "creators": [
     "Akunakun"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/oFJ59edf9J4",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 122.04,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/oFJ59edf9J4",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 117.79,
+  "records": []
 }
