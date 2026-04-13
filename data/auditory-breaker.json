@@ -6,17 +6,11 @@
     "Lazerblitz & Manix648"
   ],
   "verifier": "Gatheron",
-  "verification": "https://www.youtube.com/watch?v=lEKv8y4tNh4",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 183.62,
   "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://www.youtube.com/watch?v=lEKv8y4tNh4",
-      "percent": 100,
-      "hz": 240
-    },
     {
       "user": "YuNotYou",
       "link": "https://youtu.be/sTqm9YnpG-I?si=tWVDjDOBO6kpdJ_r",
