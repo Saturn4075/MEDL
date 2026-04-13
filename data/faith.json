@@ -5,10 +5,17 @@
   "creators": [
     "ZeroSR & More"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/GrVvzCmV76Y",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 14.51,
-  "records": []
+  "points": 13.55,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/GrVvzCmV76Y",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
