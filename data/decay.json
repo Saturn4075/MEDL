@@ -5,15 +5,21 @@
   "creators": [
     "KiwiPenguin"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/5ZI5z2fEgkM",
+  "verifier": "Tink",
+  "verification": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.73,
   "records": [
     {
       "user": "Saturn4075",
-      "link": "https://youtu.be/5ZI5z2fEgkM",
+      "link": "https://youtu.be/2OGjxsJxMWg",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/mGEjqgyYWr4?si=9Weq-BTdppiYdShw",
       "percent": 100,
       "hz": 240
     }
