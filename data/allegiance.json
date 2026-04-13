@@ -5,27 +5,15 @@
   "creators": [
     "Nikroplays"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/pYA6jFmo5wk",
+  "verifier": "Meeren",
+  "verification": "https://youtu.be/DCzKGRvMuFI",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 13.36,
+  "points": 12.75,
   "records": [
     {
-      "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?v=f14XilW3Dm8",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/pYA6jFmo5wk",
-      "percent": 100,
-      "hz": 240
-    },
-    {
       "user": "Meeren",
-      "link": "https://www.youtube.com/watch?v=gb1vAhXgUVw",
+      "link": "https://youtu.be/DCzKGRvMuFI",
       "percent": 100,
       "hz": 240
     }
