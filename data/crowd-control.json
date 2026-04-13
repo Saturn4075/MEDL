@@ -5,10 +5,17 @@
   "creators": [
     "Endlevel & More"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Tink",
+  "verification": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 14.51,
-  "records": []
+  "points": 15.05,
+  "records": [
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
