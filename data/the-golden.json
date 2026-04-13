@@ -6,16 +6,9 @@
     "BoBoBoBo & More"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/r-7mml8GVic",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 680.82,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/r-7mml8GVic",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
