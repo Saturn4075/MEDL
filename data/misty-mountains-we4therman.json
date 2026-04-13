@@ -1,0 +1,21 @@
+{
+  "id": "Misty Mountains",
+  "name": "Misty Mountains",
+  "author": "We4therMan",
+  "creators": [
+    "We4therMan"
+  ],
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/5ZI5z2fEgkM",
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 6.73,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/5ZI5z2fEgkM",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}
