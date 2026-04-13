@@ -5,17 +5,10 @@
   "creators": [
     "Feijoaoa"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://www.youtube.com/watch?v=DgiB8YzGFwQ",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 20.39,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://www.youtube.com/watch?v=DgiB8YzGFwQ",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "points": 17.12,
+  "records": []
 }
