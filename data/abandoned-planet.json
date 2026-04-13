@@ -5,10 +5,23 @@
   "creators": [
     "Metalface221"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "m3ndA",
+  "verification": "https://www.youtube.com/watch?v=eEVCrgq5fR0",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 110.88,
-  "records": []
+  "points": 105.19,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/L9HjANqv-Ro?si=tI9HGJfb6CaCqVSa",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://www.youtube.com/watch?v=eEVCrgq5fR0",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
