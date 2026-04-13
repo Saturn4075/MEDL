@@ -5,10 +5,17 @@
   "creators": [
     "VelYT"
   ],
-  "verifier": "",
-  "verification": null,
+  "verifier": "Meeren",
+  "verification": "https://youtu.be/JfxcXNZ1sPw",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": "",
-  "records": []
+  "points": 5.23,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/JfxcXNZ1sPw",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
