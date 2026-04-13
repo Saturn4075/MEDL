@@ -5,17 +5,10 @@
   "creators": [
     "Lazerblitz & Manix648"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/EhG0wc7IHnA",
+  "verifier": "Gatheron",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 178.14,
-  "records": [
-    {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/EhG0wc7IHnA",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
