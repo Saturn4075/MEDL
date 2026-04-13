@@ -5,15 +5,21 @@
   "creators": [
     "Zeroya & More"
   ],
-  "verifier": "Gatheron",
-  "verification": null,
+  "verifier": "Saturn4075",
+  "verification": "https://youtu.be/S7QFDJGCFKQ",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 219.02,
+  "points": 231.31,
   "records": [
     {
       "user": "YuNotYou",
-      "link": "https://youtu.be/sTqm9YnpG-I?si=tWVDjDOBO6kpdJ_r",
+      "link": "https://youtu.be/I_A3mpv6cqw?si=w14aElo4586Ips_t",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/S7QFDJGCFKQ",
       "percent": 100,
       "hz": 240
     }
