@@ -6,16 +6,9 @@
     "Zenmuron"
   ],
   "verifier": "Gatheron",
-  "verification": "https://youtu.be/uCvYRnsFsoo",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 405.87,
-  "records": [
-    {
-      "user": "Gatheron",
-      "link": "https://youtu.be/uCvYRnsFsoo",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
