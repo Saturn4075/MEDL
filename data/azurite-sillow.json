@@ -10,5 +10,12 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": "",
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://www.youtube.com/watch?v=jpYKYPRgm1o",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
