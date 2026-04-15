@@ -6,9 +6,16 @@
     "Funnygame, Serponge & Cyclic"
   ],
   "verifier": "Khangisar",
-  "verification": null,
+  "verification": "https://medal.tv/games/geometry-dash/clips/muNTusuay-hYT8UWx?invite=cr-MSxPRVIsMzI4ODU0MTEx&v=145",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 356.3,
-  "records": []
+  "records": [
+    {
+      "user": "khangisar",
+      "link": "https://medal.tv/games/geometry-dash/clips/muNTusuay-hYT8UWx?invite=cr-MSxPRVIsMzI4ODU0MTEx&v=145",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
