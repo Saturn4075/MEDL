@@ -1,0 +1,21 @@
+{
+  "id": "Heartbeat (KrmaL)",
+  "name": "Heartbeat (KrmaL)",
+  "author": "KrmaL",
+  "creators": [
+    "KrmaL"
+  ],
+  "verifier": "Gumballer",
+  "verification": "https://www.youtube.com/watch?v=hKwaoTyRt1s",
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": "#N/A",
+  "records": [
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=hKwaoTyRt1s",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}
