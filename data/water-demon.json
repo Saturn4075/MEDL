@@ -5,15 +5,21 @@
   "creators": [
     "Hexitine"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
+  "verifier": "YuNotYou",
+  "verification": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 80.68,
+  "points": 75.83,
   "records": [
     {
-      "user": "Saturn4075",
-      "link": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
+      "user": "YuNotYou",
+      "link": "https://youtu.be/hCxLxbd2Hw4?si=NvbRQri3i9nvgYdL",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "iroha",
+      "link": "https://youtu.be/edi2hffLVZ0?si=C2ppdhCPgkuxU12K",
       "percent": 100,
       "hz": 240
     }
