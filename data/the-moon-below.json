@@ -5,15 +5,27 @@
   "creators": [
     "Onvil"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/XMGh-xozDKQ",
+  "verifier": "m3ndA",
+  "verification": "https://youtu.be/7dyerd8w4hM?si=ftLAQr45UzRB1FHe",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 258.45,
+  "points": 257.22,
   "records": [
     {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/XMGh-xozDKQ",
+      "user": "Meeren",
+      "link": "https://youtu.be/eUQbKiMZUcs",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://youtu.be/7dyerd8w4hM?si=ftLAQr45UzRB1FHe",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "ErrorDudeHello",
+      "link": "https://www.youtube.com/watch?v=DgBm6jywJtc",
       "percent": 100,
       "hz": 240
     }
