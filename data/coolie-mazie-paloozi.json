@@ -6,14 +6,20 @@
     "Akunakun"
   ],
   "verifier": "Saturn4075",
-  "verification": "https://youtu.be/oFJ59edf9J4",
+  "verification": "https://youtu.be/KQcohGzoutU",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 122.04,
+  "points": 117.79,
   "records": [
     {
       "user": "Saturn4075",
-      "link": "https://youtu.be/oFJ59edf9J4",
+      "link": "https://youtu.be/KQcohGzoutU",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/Ex1OioSVzzQ?si=EN20V4t_SYese7ep",
       "percent": 100,
       "hz": 240
     }
