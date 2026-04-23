@@ -5,27 +5,15 @@
   "creators": [
     "Funnygame, Serponge & Cyclic"
   ],
-  "verifier": "Meeren",
-  "verification": "https://youtu.be/uHmojeh4VG0?si=vcLIa_vwv8_BqrNg",
+  "verifier": "Khangisar",
+  "verification": "https://youtu.be/4GNT62h-lwQ",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 355.33,
+  "points": 356.3,
   "records": [
     {
-      "user": "YuNotYou",
-      "link": "https://youtu.be/rb_pnMEToEk?si=dsKuPjDBpBfp9rzf",
-      "percent": 100,
-      "hz": 240
-    },
-    {
-      "user": "Meeren",
-      "link": "https://youtu.be/uHmojeh4VG0?si=vcLIa_vwv8_BqrNg",
-      "percent": 100,
-      "hz": 240
-    },
-    {
       "user": "khangisar",
-      "link": "https://www.youtube.com/watch?v=JrH-pMkVNQ4",
+      "link": "https://youtu.be/4GNT62h-lwQ",
       "percent": 100,
       "hz": 240
     }
