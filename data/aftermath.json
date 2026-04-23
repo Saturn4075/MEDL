@@ -6,9 +6,16 @@
     "Exenity & More"
   ],
   "verifier": "m3ndA",
-  "verification": null,
+  "verification": "https://youtu.be/jBPZh1_qoMs?si=hg4BUPa9qLRKGLHG",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 36.77,
-  "records": []
+  "records": [
+    {
+      "user": "m3ndA",
+      "link": "https://youtu.be/jBPZh1_qoMs?si=hg4BUPa9qLRKGLHG",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
