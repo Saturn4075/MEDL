@@ -5,15 +5,21 @@
   "creators": [
     "Trusta & Noobas"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
+  "verifier": "m3ndA",
+  "verification": "https://www.youtube.com/watch?v=eEVCrgq5fR0",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 80.68,
+  "points": 105.19,
   "records": [
     {
-      "user": "Saturn4075",
-      "link": "https://www.youtube.com/watch?v=P2LzT_zaXJ4",
+      "user": "Meeren",
+      "link": "https://youtu.be/L9HjANqv-Ro?si=tI9HGJfb6CaCqVSa",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://www.youtube.com/watch?v=eEVCrgq5fR0",
       "percent": 100,
       "hz": 240
     }
