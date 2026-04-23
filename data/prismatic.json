@@ -6,9 +6,16 @@
     "CatGeo"
   ],
   "verifier": "BadGMD",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=pC86I6L-9pw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 5.95,
-  "records": []
+  "records": [
+    {
+      "user": "BadGMD",
+      "link": "https://www.youtube.com/watch?v=pC86I6L-9pw",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
