@@ -6,14 +6,20 @@
     "KiwiPenguin"
   ],
   "verifier": "Saturn4075",
-  "verification": "https://www.youtube.com/watch?v=Frg0z2D7kzE",
+  "verification": "https://youtu.be/S7QFDJGCFKQ",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 232.24,
+  "points": 231.31,
   "records": [
     {
+      "user": "YuNotYou",
+      "link": "https://youtu.be/I_A3mpv6cqw?si=w14aElo4586Ips_t",
+      "percent": 100,
+      "hz": 240
+    },
+    {
       "user": "Saturn4075",
-      "link": "https://www.youtube.com/watch?v=Frg0z2D7kzE",
+      "link": "https://youtu.be/S7QFDJGCFKQ",
       "percent": 100,
       "hz": 240
     }
