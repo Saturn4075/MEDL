@@ -5,15 +5,21 @@
   "creators": [
     "KrmaL"
   ],
-  "verifier": "Saturn4075",
-  "verification": "https://youtu.be/E-YG8PaUmKs",
+  "verifier": "Gumballer",
+  "verification": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": 295.77,
+  "points": 336.36,
   "records": [
     {
-      "user": "Saturn4075",
-      "link": "https://youtu.be/E-YG8PaUmKs",
+      "user": "YuNotYou",
+      "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Gumballer",
+      "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
       "percent": 100,
       "hz": 240
     }
