@@ -6,14 +6,14 @@
     "Vortrox & More"
   ],
   "verifier": "YuNotYou",
-  "verification": "https://www.youtube.com/watch?si=GIUK32yKn_a6dNhJ&v=hlWjXmjFpk0&feature=youtu.be",
+  "verification": "https://www.youtube.com/watch?v=hlWjXmjFpk0",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 252.71,
   "records": [
     {
       "user": "YuNotYou",
-      "link": "https://www.youtube.com/watch?si=GIUK32yKn_a6dNhJ&v=hlWjXmjFpk0&feature=youtu.be",
+      "link": "https://www.youtube.com/watch?v=hlWjXmjFpk0",
       "percent": 100,
       "hz": 240
     }
