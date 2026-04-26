@@ -6,16 +6,9 @@
     "Squizaaard & More"
   ],
   "verifier": "Tink",
-  "verification": "https://youtu.be/SFNgNRUEG-E?si=q6TdfSHlZ846def2",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.89,
-  "records": [
-    {
-      "user": "Tink",
-      "link": "https://youtu.be/SFNgNRUEG-E?si=q6TdfSHlZ846def2",
-      "percent": 100,
-      "hz": 240
-    }
-  ]
+  "records": []
 }
