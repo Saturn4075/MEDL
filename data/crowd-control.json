@@ -6,9 +6,16 @@
     "Endlevel & More"
   ],
   "verifier": "Tink",
-  "verification": null,
+  "verification": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 15.05,
-  "records": []
+  "records": [
+    {
+      "user": "Tink",
+      "link": "https://youtu.be/G4Qu444LFXA?si=TZAsGD_jp0tLYprj",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
 }
