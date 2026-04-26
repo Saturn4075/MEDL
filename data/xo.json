@@ -15,13 +15,13 @@
       "user": "YuNotYou",
       "link": "https://www.youtube.com/watch?v=APr58_bmz5s",
       "percent": 100,
-      "hz": 240
+      "hz": "NaN"
     },
     {
       "user": "Gumballer",
       "link": "https://www.youtube.com/watch?v=S-dhkWOzCH8&t=1s",
       "percent": 100,
-      "hz": 240
+      "hz": "NaN"
     }
   ]
 }
