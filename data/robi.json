@@ -5,10 +5,17 @@
   "creators": [
     "robianny"
   ],
-  "verifier": "",
-  "verification": null,
+  "verifier": "Meeren",
+  "verification": "https://youtu.be/DCzKGRvMuFI",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": "",
-  "records": []
+  "points": 11.96,
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/DCzKGRvMuFI",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
