@@ -6,9 +6,16 @@
     "BombCraft2010"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/qWcZCzEMQ24?si=bpbYTGx1-S_itUMX",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.01,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/qWcZCzEMQ24?si=bpbYTGx1-S_itUMX",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
