@@ -10,5 +10,18 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": 32.46,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/0RsvizB7pLM",
+      "percent": 100,
+      "hz": "NaN"
+    },
+    {
+      "user": "m3ndA",
+      "link": "https://youtu.be/0RsvizB7pLM",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
