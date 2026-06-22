@@ -6,11 +6,17 @@
     "CatGeo"
   ],
   "verifier": "dukchaos",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=1ILjm-k8yuc&t=9s",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.34,
   "records": [
+    {
+      "user": "dukchaos",
+      "link": "https://www.youtube.com/watch?v=1ILjm-k8yuc&t=9s",
+      "percent": 100,
+      "hz": "NaN"
+    },
     {
       "user": "BadGMD",
       "link": "https://www.youtube.com/watch?v=pC86I6L-9pw",
