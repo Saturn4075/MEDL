@@ -6,16 +6,9 @@
     "Airless & TShack"
   ],
   "verifier": "Guanto",
-  "verification": "https://www.youtube.com/watch?v=apxNkH0GBP8",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.87,
-  "records": [
-    {
-      "user": "Guanto",
-      "link": "https://www.youtube.com/watch?v=apxNkH0GBP8",
-      "percent": 100,
-      "hz": "NaN"
-    }
-  ]
+  "records": []
 }
