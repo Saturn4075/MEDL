@@ -1,14 +1,21 @@
 {
   "id": "Red World",
   "name": "Red World",
-  "author": "sarY",
+  "author": "saRy",
   "creators": [
-    "sarY"
+    "saRy"
   ],
-  "verifier": "",
-  "verification": null,
+  "verifier": "Manlai1",
+  "verification": "https://www.youtube.com/watch?v=IQjRRD1yolw",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": "",
-  "records": []
+  "points": 5.04,
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://www.youtube.com/watch?v=IQjRRD1yolw",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
