@@ -36,12 +36,6 @@
       "hz": "NaN"
     },
     {
-      "user": "Manlai1",
-      "link": "https://www.youtube.com/watch?v=5K06GquaM5s&pp=0gcJCQMLAYcqIYzv",
-      "percent": 100,
-      "hz": "NaN"
-    },
-    {
       "user": "m3ndA",
       "link": "https://www.youtube.com/watch?v=h5rJ8G9L3KY&list=PLVLyh6l0ayHzBV3aUgc9q1M9wXWRJJ4qT&index=4&pp=iAQB",
       "percent": 100,
@@ -50,6 +44,12 @@
     {
       "user": "dukchaos",
       "link": "https://www.youtube.com/watch?v=grjjpGVYvrk",
+      "percent": 100,
+      "hz": "NaN"
+    },
+    {
+      "user": "Manlai1",
+      "link": "https://www.youtube.com/watch?v=5K06GquaM5s&pp=0gcJCQMLAYcqIYzv",
       "percent": 100,
       "hz": "NaN"
     },
