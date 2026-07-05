@@ -6,9 +6,16 @@
     "kivvvi"
   ],
   "verifier": "Guanto",
-  "verification": null,
+  "verification": "https://youtu.be/I9q5vzgGxo4",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 44.78,
-  "records": []
+  "records": [
+    {
+      "user": "Guanto",
+      "link": "https://youtu.be/I9q5vzgGxo4",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
