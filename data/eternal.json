@@ -6,9 +6,16 @@
     "ivyteal"
   ],
   "verifier": "Guanto",
-  "verification": null,
+  "verification": "https://youtu.be/Bl22CqdvBms",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 46.33,
-  "records": []
+  "records": [
+    {
+      "user": "Guanto",
+      "link": "https://youtu.be/Bl22CqdvBms",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
