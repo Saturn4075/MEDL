@@ -6,9 +6,16 @@
     "MakFeed & Pleoslim"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/kDF6r9aaj4I",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 17.93,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/kDF6r9aaj4I",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
