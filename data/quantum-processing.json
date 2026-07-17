@@ -6,9 +6,16 @@
     "Riot & More"
   ],
   "verifier": "Manlai1",
-  "verification": null,
+  "verification": "https://www.youtube.com/live/New5p9Kfoiot=4615",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 239,
-  "records": []
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://www.youtube.com/live/New5p9Kfoiot=4615",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
