@@ -6,9 +6,16 @@
     "thazm"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/aAZymXVQdQc",
   "percentToQualify": 100,
   "password": "N/A",
   "points": "",
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/aAZymXVQdQc",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
