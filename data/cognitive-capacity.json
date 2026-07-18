@@ -6,14 +6,14 @@
     "Griffin128"
   ],
   "verifier": "m3ndA",
-  "verification": null,
+  "verification": "https://www.facebook.com/share/v/1EjLVPWAeX/",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.71,
   "records": [
     {
       "user": "m3ndA",
-      "link": null,
+      "link": "https://www.facebook.com/share/v/1EjLVPWAeX/",
       "percent": 100,
       "hz": "NaN"
     }
