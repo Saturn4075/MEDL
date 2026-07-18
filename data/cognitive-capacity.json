@@ -5,10 +5,17 @@
   "creators": [
     "Griffin128"
   ],
-  "verifier": "",
+  "verifier": "m3ndA",
   "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.71,
-  "records": []
+  "records": [
+    {
+      "user": "m3ndA",
+      "link": null,
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
