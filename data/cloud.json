@@ -6,9 +6,16 @@
     "kuip & krusso"
   ],
   "verifier": "dukchaos",
-  "verification": null,
+  "verification": "https://youtu.be/bJC5JIHAVR0",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 219.85,
-  "records": []
+  "records": [
+    {
+      "user": "dukchaos",
+      "link": "https://youtu.be/bJC5JIHAVR0",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
