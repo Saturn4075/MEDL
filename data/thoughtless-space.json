@@ -6,9 +6,16 @@
     "KZLR"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/kzXk0EWze1w",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 22.76,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/kzXk0EWze1w",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
