@@ -6,9 +6,16 @@
     "dutchiee & More"
   ],
   "verifier": "hashaaGd",
-  "verification": null,
+  "verification": "https://youtu.be/IhgPNoeqp3U",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.7,
-  "records": []
+  "records": [
+    {
+      "user": "hashaaGd",
+      "link": "https://youtu.be/IhgPNoeqp3U",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
