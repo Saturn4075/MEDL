@@ -6,9 +6,16 @@
     "spark"
   ],
   "verifier": "CrystalOnSumCrack",
-  "verification": null,
+  "verification": "https://youtu.be/ctqaSa0ItUE",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 5.12,
-  "records": []
+  "records": [
+    {
+      "user": "CrystalOnSumCrack",
+      "link": "https://youtu.be/ctqaSa0ItUE",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
