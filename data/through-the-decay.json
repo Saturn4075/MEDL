@@ -5,8 +5,8 @@
   "creators": [
     "spark"
   ],
-  "verifier": "CrystalOnSumCrack",
-  "verification": null,
+  "verifier": "CrystalGD",
+  "verification": "https://youtu.be/ctqaSa0ItUE",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 5.12,
