@@ -6,13 +6,13 @@
     "spark"
   ],
   "verifier": "CrystalOnSumCrack",
-  "verification": "https://youtu.be/ctqaSa0ItUE",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 5.12,
   "records": [
     {
-      "user": "CrystalOnSumCrack",
+      "user": "CrystalGD",
       "link": "https://youtu.be/ctqaSa0ItUE",
       "percent": 100,
       "hz": "NaN"
