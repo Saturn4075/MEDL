@@ -6,9 +6,16 @@
     "Blad3M & Menkatjezzz"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/vCIejrXU0pc",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 10.86,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/vCIejrXU0pc",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
