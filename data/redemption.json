@@ -1,14 +1,21 @@
 {
   "id": "Redemption",
   "name": "Redemption",
-  "author": "",
+  "author": "Zest",
   "creators": [
-    ""
+    "Zest"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/J-TWU7El6Mo",
   "percentToQualify": 100,
   "password": "N/A",
-  "points": "",
-  "records": []
+  "points": 11.82,
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/J-TWU7El6Mo",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
