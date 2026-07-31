@@ -6,9 +6,16 @@
     "vit12"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/6TQeYVgRlSA",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.77,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/6TQeYVgRlSA",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
