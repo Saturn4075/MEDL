@@ -6,9 +6,16 @@
     "DracoZeon"
   ],
   "verifier": "Alcyoneus",
-  "verification": null,
+  "verification": "https://www.facebook.com/share/v/1DvbhvPug2/",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 17.74,
-  "records": []
+  "records": [
+    {
+      "user": "Alcyoneus",
+      "link": "https://www.facebook.com/share/v/1DvbhvPug2/",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
