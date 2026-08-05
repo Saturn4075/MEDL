@@ -6,9 +6,16 @@
     "Multiverse55"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://youtu.be/rbL_cPcyktU",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 16.41,
-  "records": []
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://youtu.be/rbL_cPcyktU",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
