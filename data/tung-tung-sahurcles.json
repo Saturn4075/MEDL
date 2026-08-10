@@ -6,9 +6,16 @@
     "ArraegenGD"
   ],
   "verifier": "Manlai1",
-  "verification": null,
+  "verification": "https://youtu.be/wMLJFl125x4",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 10.35,
-  "records": []
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://youtu.be/wMLJFl125x4",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
