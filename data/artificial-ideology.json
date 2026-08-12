@@ -6,9 +6,16 @@
     "TeamN2"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/VQy1mhaybUI",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 62.13,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/VQy1mhaybUI",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
