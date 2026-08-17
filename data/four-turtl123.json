@@ -6,9 +6,16 @@
     "Turtl123"
   ],
   "verifier": "Codiga",
-  "verification": null,
+  "verification": "https://youtu.be/08_CxqD3Klg",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 10.61,
-  "records": []
+  "records": [
+    {
+      "user": "Codiga",
+      "link": "https://youtu.be/08_CxqD3Klg",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
