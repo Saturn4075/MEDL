@@ -6,9 +6,16 @@
     "AZuler4 & guillester"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/8uvZh8JwLwY",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 191.43,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/8uvZh8JwLwY",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
