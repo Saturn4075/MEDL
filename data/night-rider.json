@@ -10,5 +10,12 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": 246.11,
-  "records": []
+  "records": [
+    {
+      "user": "m3ndA",
+      "link": null,
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
