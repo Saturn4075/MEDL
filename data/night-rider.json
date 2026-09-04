@@ -6,14 +6,14 @@
     "LmAnubis & More"
   ],
   "verifier": "m3ndA",
-  "verification": "https://youtu.be/L4suVnzasWw",
+  "verification": null,
   "percentToQualify": 100,
   "password": "N/A",
   "points": 246.11,
   "records": [
     {
       "user": "m3ndA",
-      "link": "https://youtu.be/L4suVnzasWw",
+      "link": null,
       "percent": 100,
       "hz": "NaN"
     }
