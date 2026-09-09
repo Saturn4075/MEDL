@@ -1,0 +1,21 @@
+{
+  "id": "rauchkammer",
+  "name": "rauchkammer",
+  "author": "Devilmine",
+  "creators": [
+    "Devilmine"
+  ],
+  "verifier": "Manlai1",
+  "verification": "https://youtu.be/GZfI6kbj6Ro",
+  "percentToQualify": 100,
+  "password": "N/A",
+  "points": 5.04,
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://youtu.be/GZfI6kbj6Ro",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
+}
