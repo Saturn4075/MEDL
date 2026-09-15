@@ -6,9 +6,16 @@
     "iIiViRuZiIi"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/C2Ctj0xw9x4",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 20.94,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/C2Ctj0xw9x4",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
