@@ -6,9 +6,16 @@
     "SleyGD & More"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/0WU3epRPtmo",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 7.57,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/0WU3epRPtmo",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
