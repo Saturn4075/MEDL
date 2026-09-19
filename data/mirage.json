@@ -6,9 +6,16 @@
     "Golden & More"
   ],
   "verifier": "m3ndA",
-  "verification": null,
+  "verification": "https://youtu.be/TvgsvTUF9sY",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 37.32,
-  "records": []
+  "records": [
+    {
+      "user": "m3ndA",
+      "link": "https://youtu.be/TvgsvTUF9sY",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
