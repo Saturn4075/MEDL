@@ -6,9 +6,16 @@
     "Canonlaw & More"
   ],
   "verifier": "Saturn4075",
-  "verification": null,
+  "verification": "https://www.youtube.com/watch?v=jMOrTpS_eBU",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 11.36,
-  "records": []
+  "records": [
+    {
+      "user": "Saturn4075",
+      "link": "https://www.youtube.com/watch?v=jMOrTpS_eBU",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
