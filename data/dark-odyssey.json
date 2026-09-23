@@ -10,5 +10,12 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": "",
-  "records": []
+  "records": [
+    {
+      "user": "hashaaGd",
+      "link": "https://youtu.be/lzIl5Q8kdOU",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
