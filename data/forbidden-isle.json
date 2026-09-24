@@ -6,9 +6,16 @@
     "Sillow"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/k2UKoJ5FS8M",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 9.43,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/k2UKoJ5FS8M",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
