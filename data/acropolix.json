@@ -6,9 +6,16 @@
     "SoulsTRK"
   ],
   "verifier": "Manlai1",
-  "verification": null,
+  "verification": "https://youtu.be/mW6KmCcYpFk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 11.61,
-  "records": []
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://youtu.be/mW6KmCcYpFk",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
