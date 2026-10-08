@@ -6,9 +6,16 @@
     "NoobyPro27 & More"
   ],
   "verifier": "Bugii",
-  "verification": null,
+  "verification": "https://drive.google.com/file/d/1H4x2FDkOTkHyAbAvBiXpkHAF13LB6tis/view?usp=drivesdk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.45,
-  "records": []
+  "records": [
+    {
+      "user": "Bugii",
+      "link": "https://drive.google.com/file/d/1H4x2FDkOTkHyAbAvBiXpkHAF13LB6tis/view?usp=drivesdk",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
