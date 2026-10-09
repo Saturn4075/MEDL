@@ -6,9 +6,16 @@
     "Andromeda & More"
   ],
   "verifier": "Lemon",
-  "verification": null,
+  "verification": "https://youtu.be/cBxlBbI5-eM",
   "percentToQualify": 100,
   "password": "N/A",
   "points": "",
-  "records": []
+  "records": [
+    {
+      "user": "Lemon",
+      "link": "https://youtu.be/cBxlBbI5-eM",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
