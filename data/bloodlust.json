@@ -6,9 +6,16 @@
     "Knobbelboy & More"
   ],
   "verifier": "trulysoul",
-  "verification": null,
+  "verification": "https://youtu.be/vLwPE1uYCyg",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 486.47,
-  "records": []
+  "records": [
+    {
+      "user": "trulysoul",
+      "link": "https://youtu.be/vLwPE1uYCyg",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
