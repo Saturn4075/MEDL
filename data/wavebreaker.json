@@ -6,9 +6,16 @@
     "Lemons & More"
   ],
   "verifier": "SpringWater",
-  "verification": null,
+  "verification": "https://youtu.be/FzWJrJ0bzkk",
   "percentToQualify": 100,
   "password": "N/A",
   "points": "",
-  "records": []
+  "records": [
+    {
+      "user": "SpringWater",
+      "link": "https://youtu.be/FzWJrJ0bzkk",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
