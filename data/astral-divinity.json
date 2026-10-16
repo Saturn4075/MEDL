@@ -6,9 +6,16 @@
     "Knobbelboy"
   ],
   "verifier": "Lemon",
-  "verification": null,
+  "verification": "https://youtu.be/yH0v3J1nn5A",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 222.54,
-  "records": []
+  "records": [
+    {
+      "user": "Lemon",
+      "link": "https://youtu.be/yH0v3J1nn5A",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
