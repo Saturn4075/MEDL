@@ -6,9 +6,16 @@
     "ivyteal & More"
   ],
   "verifier": "Meeren",
-  "verification": null,
+  "verification": "https://youtu.be/2HYcFHpbLNQ",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 12.71,
-  "records": []
+  "records": [
+    {
+      "user": "Meeren",
+      "link": "https://youtu.be/2HYcFHpbLNQ",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
