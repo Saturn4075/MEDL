@@ -6,9 +6,16 @@
     "Alass & More"
   ],
   "verifier": "Alcyoneus",
-  "verification": null,
+  "verification": "https://www.facebook.com/share/v/1YvT4ZJsdb/",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 116.98,
-  "records": []
+  "records": [
+    {
+      "user": "Alcyoneus",
+      "link": "https://www.facebook.com/share/v/1YvT4ZJsdb/",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
