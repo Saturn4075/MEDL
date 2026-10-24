@@ -6,9 +6,16 @@
     "AranyaDeCueva"
   ],
   "verifier": "Nano",
-  "verification": null,
+  "verification": "https://youtube.com/shorts/LoKj4k0Shqw",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 6.66,
-  "records": []
+  "records": [
+    {
+      "user": "Nano",
+      "link": "https://youtube.com/shorts/LoKj4k0Shqw",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
