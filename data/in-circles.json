@@ -6,9 +6,16 @@
     "SomieStuff"
   ],
   "verifier": "Chngnn",
-  "verification": null,
+  "verification": "https://youtu.be/hF0DgOcg70I",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 19.87,
-  "records": []
+  "records": [
+    {
+      "user": "Chngnn",
+      "link": "https://youtu.be/hF0DgOcg70I",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
