@@ -10,5 +10,12 @@
   "percentToQualify": 100,
   "password": "N/A",
   "points": 110.79,
-  "records": []
+  "records": [
+    {
+      "user": "Manlai1",
+      "link": "https://youtu.be/D0AOgoVc1W0",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
