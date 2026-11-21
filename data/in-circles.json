@@ -16,6 +16,12 @@
       "link": "https://youtu.be/hF0DgOcg70I",
       "percent": 100,
       "hz": "NaN"
+    },
+    {
+      "user": "#VALUE!",
+      "link": null,
+      "percent": 100,
+      "hz": "NaN"
     }
   ]
 }

@@ -36,6 +36,12 @@
       "hz": "NaN"
     },
     {
+      "user": "#VALUE!",
+      "link": null,
+      "percent": 100,
+      "hz": "NaN"
+    },
+    {
       "user": "twilight",
       "link": "https://www.youtube.com/watch?v=ufL_ZA-mCCI",
       "percent": 100,

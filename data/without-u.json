@@ -22,6 +22,12 @@
       "link": "https://www.facebook.com/share/v/1CKafEy2iW/",
       "percent": 100,
       "hz": "NaN"
+    },
+    {
+      "user": "#VALUE!",
+      "link": null,
+      "percent": 100,
+      "hz": "NaN"
     }
   ]
 }
