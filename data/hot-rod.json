@@ -6,9 +6,16 @@
     "stcubing & More"
   ],
   "verifier": "Guanto",
-  "verification": null,
+  "verification": "https://youtu.be/ZOFP-d81TVA",
   "percentToQualify": 100,
   "password": "N/A",
   "points": 127.64,
-  "records": []
+  "records": [
+    {
+      "user": "Guanto",
+      "link": "https://youtu.be/ZOFP-d81TVA",
+      "percent": 100,
+      "hz": "NaN"
+    }
+  ]
 }
